@@ -24,4 +24,3 @@ Common Data Elements (CDEs) are providing standard data elements for collecting 
 -	Quantity (in the past 30 days, on how many days did you drink one or more drinks of an alcoholic beverage)
 -	Duration (Time to complete entire 1 mile walk; About how long have you been in the United States?)
 -	Length (arm span measured in centimeter, first measurement)
--	
