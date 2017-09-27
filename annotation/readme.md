@@ -1,15 +1,15 @@
-#Introduction
+# Introduction
 
 In recent years, Common Data Elements (CDEs) have been developed to unify data collection in clinical studies. Since 2015, a CDE repository maintained by the National Library of Medicine allows retrieval of CDEs across several initiatives. With wider availability of de-identified patient-level clinical trials’ data across research studies, organizing data elements using a hierarchical system can improve ability of researchers to discover relevant data to re-use.
 
 
 
 
-#Methods
+# Methods
 - Pilot study (single annotator per CDE)
 - Final study (multiple annotators, formally measure aggreemnt (e.g., kappa statistic))
 
-#Relevant Links 
+# Relevant Links 
  - SNOMED International Confluece Site dicussion on CDE annotation https://confluence.ihtsdotools.org/questions/38246454/creating-post-coordinated-expressions-the-date-the-sleep-disorder-started  (requires creating a free site account)
  - IHTSDO. SNOMED CT Compositional Grammar http://snomed.org/scg, 2014.
  - Observables and investigation procedures redesign https://confluence.ihtsdotools.org/display/OBSERVABLE/Observables+Inception-Elaboration+document
@@ -21,9 +21,9 @@ In recent years, Common Data Elements (CDEs) have been developed to unify data c
 
 
 
-#Examples
-#Numeric
-##Whole numbers
+# Examples
+## Numeric
+### Whole numbers
 
 
 -	Age when (How old was you child when he/she completely stopped breast-feeding or being fed breast milk
