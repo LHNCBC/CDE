@@ -1,1 +1,3 @@
-#Proceed to the  README file in the annotation folder
+# Common Data Elements (CDEs)
+
+Click on the annotation folder to see details of the CDE annotation project
