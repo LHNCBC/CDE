@@ -6,7 +6,7 @@ Case study in HIV/AIDS.
 Different trial artifacts require different policies. Whereas individual participant data (IPD) required de-identification, other trial artifacts can be shared without changes. 
 
 
-## Studies 
+# Studies 
 
 
 001  
@@ -45,13 +45,42 @@ http://insight.ccbr.umn.edu
 baseline characteristics journal issue https://onlinelibrary.wiley.com/toc/14681293/16/S1
 baseline article https://onlinelibrary.wiley.com/doi/full/10.1111/hiv.12232
 
+006
+2006-2009; 16402 participants  
+https://www.ncbi.nlm.nih.gov/pubmed/29702672  
+https://clinicaltrials.gov/ct2/show/NCT00223080  
+http://www.primeboost3.org link is dead  
+responsible party U.S. Army Medical Research and Materiel Command  
+We evaluated antibody responses to gp120 A244gD and gp70V1V2 92TH023 (both CRF01_AE) and Case A2 (subtype B) in cervico-vaginal mucus (CVM), seminal plasma (SP) and rectal secretions (RS) from HIV-uninfected RV144 vaccine recipients
+
+007
+https://www.ncbi.nlm.nih.gov/pubmed/29684092
+http://clinicaltrials.gov/show/NCT01641016
+https://penta-id.org/hiv/breather-ltfu-penta-16-ltfu (no dictionary)
+
+008
+https://www.ncbi.nlm.nih.gov/pubmed/29177645
+http://clinicaltrials.gov/show/NCT02472886
+Gilead Sciences
+
+009
+zambia female sex workers, self kit
+https://www.ncbi.nlm.nih.gov/pubmed/29161260
+http://clinicaltrials.gov/show/NCT02827240
+De-identified data will be made available via International Initiative for Impact Evaluation's public access data repository.
+Yes to data sharing
+
 
 ## Search 
 
 "hiv"[MeSH Terms] AND ("clinical trial"[Publication Type]) AND clinicaltrials.gov [si]  
 https://www.ncbi.nlm.nih.gov/pubmed/?term=%22hiv%22%5BMeSH+Terms%5D+AND+(%22clinical+trial%22%5BPublication+Type%5D)+AND+clinicaltrials.gov+%5Bsi%5D
 
+"hiv"[MeSH Terms] AND "clinical trial"[Publication Type] AND clinicaltrials.gov[si] AND ("loattrfull text"[sb] AND ("2013/07/01"[PDAT] : "2018/07/01"[PDAT]))
 
+Articles may describe trial with 50 or less participants
+Yes to IPD sharing
 
+# Background
 
 

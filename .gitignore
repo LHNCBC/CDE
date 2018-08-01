@@ -1,2 +1,13 @@
+# Word temporary
+~$*.doc*
 
-hiv/datadict/~$dict.xlsx
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+
