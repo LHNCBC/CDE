@@ -65,10 +65,33 @@ Gilead Sciences
 
 009
 zambia female sex workers, self kit
-https://www.ncbi.nlm.nih.gov/pubmed/29161260
-http://clinicaltrials.gov/show/NCT02827240
-De-identified data will be made available via International Initiative for Impact Evaluation's public access data repository.
-Yes to data sharing
+https://www.ncbi.nlm.nih.gov/pubmed/29161260  
+http://clinicaltrials.gov/show/NCT02827240  
+De-identified data will be made available via International Initiative for Impact Evaluation's public access data repository.  
+Yes to data sharing  
+http://ridie.3ieimpact.org/index.php  
+
+010  
+non-iferiority trial
+https://www.ncbi.nlm.nih.gov/pubmed/29020293  
+http://clinicaltrials.gov/show/NCT02159599  
+
+011  
+https://www.ncbi.nlm.nih.gov/pubmed/28931520  
+http://clinicaltrials.gov/show/NCT01578889  
+
+012  
+monotherapy vs dual therapy
+https://www.ncbi.nlm.nih.gov/pubmed/28566227  
+https://clinicaltrials.gov/ct2/show/NCT01905059  
+
+
+013  
+https://www.ncbi.nlm.nih.gov/pubmed/28546090
+http://clinicaltrials.gov/show/NCT02076178
+
+
+
 
 
 ## Search 
