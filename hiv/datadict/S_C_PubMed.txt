@@ -1,0 +1,5 @@
+See a section in readme.md file for search strategy to retrieve PubMed articles
+
+We restricted to articles linked to a study record in ClinicalTrials.gov
+We required articles to be recent (last 5 years)
+We excluded articles without full text.
