@@ -13,10 +13,10 @@ Example
 ## Stages of data re-use
 
 - **Review stage**
- - Manual or computerized – researcher uses manual human review to assess whether to further work with the data
- - Mode
- - Based on data dictionary (no access to data)
- - Based on preview of the data (either demo dataset, or partial or full dataset)
+   - Manual or computerized – researcher uses manual human review to assess whether to further work with the data
+   - Mode
+   - Based on data dictionary (no access to data)
+   - Based on preview of the data (either demo dataset, or partial or full dataset)
 
 
 
