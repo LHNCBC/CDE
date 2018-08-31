@@ -1,6 +1,6 @@
 # CDE
 This file shows definitions finalized by a Glossary subgroup of the Clinical Common Data Elements (CDE) Task Force of the NIH Scientific Data Council (SDC) 
-(developed in 2017-2018 and finalized in Jan 2018
+(developed in 2017-2018 and finalized in Jan 2018)
 
 
 ## Previusly standardized terms (not discussed by the group)
