@@ -6,11 +6,14 @@ This file shows definitions finalized by a Glossary subgroup of the Clinical Com
 ## Previusly standardized terms (not discussed by the group)
 Data Element = Information that describes a piece of data to be collected in a study. The DE does not include the data themselves.
 
-Common Data Element = A data element that is common to multiple data sets across different studies. Commonality may be intentional or unintentional; this Portal places emphasis on the intentional use of CDEs to improve data quality and promote data sharing. Certain types of CDEs are sometimes described.
+### Common Data Element
+A data element that is common to multiple data sets across different studies. Commonality may be intentional or unintentional; this Portal places emphasis on the intentional use of CDEs to improve data quality and promote data sharing. Certain types of CDEs are sometimes described.
 
-Value Set = The set of possible values or responses.
+### Value Set
+The set of possible values or responses.
 
-Vocabulary =  A database of concepts with their corresponding definitions and codes that may include relationships between concepts
+### Vocabulary
+A database of concepts with their corresponding definitions and codes that may include relationships between concepts
 
 
 ## New terms defined
