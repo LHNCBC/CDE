@@ -1,5 +1,5 @@
-1. 1Background
-  1. 1.1Data bundling
+# Background
+## Data bundling
 
 _Public data_ is data shared without filing a data request. Interested data-reusing researcher can obtain the data within minutes. Data dictionary can be referenced with URL that works without logins.
 
@@ -10,8 +10,7 @@ Example
 - Public data contains only human friendly data dictionary
 - Advanced and computer-friendly data dictionaries may be bundled in the restricted data
 
-1.
-  1. 1.2Stages of data re-use
+## Stages of data re-use
 
 - **Review stage**
 - Manual or computerized – researcher uses manual human review to assess whether to further work with the data
@@ -29,8 +28,7 @@ Example
 
 
 
-1.
-  1. 1.3Repository infrastructure
+## Repository infrastructure
 
 - _Simple repository_ is a repository that does not internally load all data into a single data platform. Typically, each study can separately and independently provide.
 - Simple repository may still enforce strong metadata policies that still require to keep each study independent, but enforce some common requirements. (e.g., specific format for metadata)
@@ -41,8 +39,7 @@ Example
 - Example: Project Data Sphere SAS-based cloud platform that includes all platform studies pre-loaded within an analytical platform.
 - Examle: Vivli analytical platform
 
-1.
-  1. 1.4Recommendations (data dictionary)
+# Recommendations (data dictionary)
 
 - Sharing a data dictionary in a format that is human friendly and readable facilitates human review; however, in addition to _human-friendly format_, a data reusing researcher who proceeds to actual analytical use of the data in a statistical platform, will have to tediously look up many data elements abbreviations (or other identifiers) repeatedly. A data re-using researchers who loads the data into a statistical platforms would benefit from a _computer-friendly format_.
 
@@ -63,8 +60,7 @@ Example
 
 
 
-1.
-  1. 1.5Subset of elements
+# Subset of elements
 
 PERSON (id, sex, year of birth (or age at index event)
 
@@ -76,8 +72,7 @@ CONDITION\_OCCURRENCE (hiv infected dx)
 
 
 
-1.
-  1. 1.6NOTES
+# Notes
 
 Size: 50+ patients
 
