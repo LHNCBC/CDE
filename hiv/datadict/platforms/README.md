@@ -58,24 +58,3 @@ Example
 
 - Unofficial: Share data dictionaries in a format that you would wish to receive when you need external data. 
 
-
-
-# Subset of elements
-
-- PERSON (id, sex, year of birth (or age at index event)
-
-- VISIT\_OCCURRENCE (id, when)
-
-- MEASUREMENT (weight)
-
-- CONDITION\_OCCURRENCE (hiv infected dx)
-
-
-
-# Notes
-
-Size: 50+ patients
-
-Recent: Ongoing as of 2018-06-30 or complete date between July 2013-June 2018.  (last 5 years)
-
-R define.xml package [https://github.com/DataDrivenInc/R4DSXML](https://github.com/DataDrivenInc/R4DSXML)
