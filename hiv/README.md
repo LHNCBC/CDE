@@ -17,3 +17,5 @@ Title: Identification of Research Common Data Elements in HIV/AIDS using data sc
 
 - Huser V. Disease-specific clinical trials dataset focused on advanced data sharing: A case study in HIV/AIDS MCBK Symposium 2018.
 
+- Wilson, P, Huser V. Discoverability, Accessibility, and Availability of Full Clinical Trial Protocols: An Analysis of PubMed, ClinicalTrials.gov, and 6 Data Sharing Platforms NLM report 2019
+
