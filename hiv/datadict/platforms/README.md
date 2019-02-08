@@ -39,6 +39,15 @@ Example
     - Example: Project Data Sphere SAS-based cloud platform that includes all platform studies pre-loaded within an analytical platform.
     - Examle: Vivli analytical platform
 
+# DE mapping to CDEs
+
+- source DEs are kept unmodified
+- DEs are mapped by CDEs by the study investigator by the platform
+
+## when mapped
+- a priori - at study design, before enrolling firt participant
+- post hoc - after thudy is completed and all data is collected without use of CDEs, some DEs are harmonized to CDEs post hoc
+
 # Recommendations (data dictionary)
 
 - Sharing a data dictionary in a format that is human friendly and readable facilitates human review; however, in addition to _human-friendly format_, a data reusing researcher who proceeds to actual analytical use of the data in a statistical platform, will have to tediously look up many data elements abbreviations (or other identifiers) repeatedly. A data re-using researchers who loads the data into a statistical platforms would benefit from a _computer-friendly format_.
