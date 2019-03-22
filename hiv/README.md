@@ -2,14 +2,26 @@
 
 Title: Identification of Research Common Data Elements in HIV/AIDS using data science methods
 
-### Aims
+## Aims
 - AIM 1: Evaluate existing efforts that share de-identified patient-level HIV/AIDS human clinical studies (interventional trials or observational studies)
 - AIM 2: Analyze data for a cohort of HIV/AIDS patients in Electronic Health Record databases
 - AIM 3: Design clinical research informatics solutions that provide optimal syntactic format and semantic terminology bindings for sharing HIV/AIDS trial data
 
 
+## What are research Common Data Elements?
 
-### Publications
+Several initiatives now exist that try to harmonize data collection in human clinical trials. If a Data Element (DE) is used in at least 2 studies, it can be considered a Common DE. 
+
+## Benefits of the project
+
+- learn from a large collection of HIV/AIDS studies
+- provide recommendations for future HIV/AIDS studies
+- improve existing HIV/AIDS CDE efforts
+- inform other domains of research (non HIV/AIDS) on best practices for sharing de-identified Individual Participant Data (IPD) and CDE efforts in other domains
+
+## Project publications (of our team)
+
+also see files for some of them in https://github.com/lhncbc/CDE/tree/master/hiv/publications
 
 - Huser V. Converting clinical trial data between CDISC SDTM and OMOP CDM OHDSI Symposium 2018.
 
