@@ -30,4 +30,4 @@ Third, to evaluate data quality of days of supply field (assuming medication com
 
 ### References
 
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4419961/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4419961/  (analysis was restricted to single-ingredient drugs; used ATC DDD; no comparison of dispensation data to prescription data; no aggregation/analysis within a single patient)
