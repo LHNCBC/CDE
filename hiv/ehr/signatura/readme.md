@@ -17,6 +17,9 @@ Third, to evaluate data quality of days of supply field (assuming medication com
     - PRESCRIBING	RX_FREQUENCY	RDBMS Text(2)	SAS Char(2)		NO		01;02;03;04;05;06;07;08;10;11;NI;UN;OT	01=Every day; 02=Two times a day (BID); 03=Three times a day (TID); 04=Four times a day (QID); 05=Every morning; 06=Every afternoon; 07=Before meals; 08=After meals; 10=Every evening; 11=Once; NI=No information; UN=Unknown; OT=Other	Specified frequency of medication.	204
     - PRESCRIBING	RX_PRN_FLAG	RDBMS Text(1)	SAS Char(1)		NO		Y;N	Y=Yes; N=No	Flag to indicate that all or part of medication frequency instructions includes “as needed.”	205
 
+- QPD was computed for each patient-NDC pair (median) and a median of those medians was than abstracted per NDC (imperfect methodology due to analytical contrains of the platform)
+
+- for later analysis QPD was rounded (e.g., value of 1 for values 0.75 to 1.25)
 
 
 - QDP examples
