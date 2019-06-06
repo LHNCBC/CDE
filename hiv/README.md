@@ -29,7 +29,7 @@ also see files for some of them in https://github.com/lhncbc/CDE/tree/master/hiv
 
 - 2018-10: Huser V. Disease-specific clinical trials dataset focused on advanced data sharing: A case study in HIV/AIDS MCBK Symposium 2018.
 
-- 2019-01: Wilson, P, Huser V. Discoverability, Accessibility, and Availability of Full Clinical Trial Protocols: An Analysis of PubMed, ClinicalTrials.gov, and 6 Data Sharing Platforms NLM report 2019; [download](hiv/publications/Protocols-analysis.docx?raw=true)
+- 2019-01: Wilson, P, Huser V. Discoverability, Accessibility, and Availability of Full Clinical Trial Protocols: An Analysis of PubMed, ClinicalTrials.gov, and 6 Data Sharing Platforms NLM report 2019; [download](publications/Protocols-analysis.docx?raw=true)
 
 
 - 2019-06: Huser V, Williams N, Inferring patient instructions (signatura) from pharmacy dispensation data, Mobilizing Computable Biomedical Knowledge 2019; link: https://github.com/lhncbc/CDE/tree/master/hiv/ehr/signatura
