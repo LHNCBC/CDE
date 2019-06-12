@@ -28,6 +28,33 @@ Third, to evaluate data quality of days of supply field (assuming medication com
   - Lopinavir/ritonavir QDP of 4
   - Raltegravir or darunavir QDP of 1
 
+
+- VRDC definitions (from https://www.resdac.org/cms-data/files/pde/data-documentation)
+
+  - DOS
+
+This variable is contained in the following files: Part D Drug Event File 
+Short SAS Name  DAYSSPLY
+SAS Name DAYS_SUPLY_NUM
+This field indicates the number of days' supply of medication dispensed by the pharmacy and consists of the amount the pharmacy enters for the prescription.
+Comments: CMS accepts blanks in PDEs where NON-STANDARD FORMAT CODES is B, X, or P.
+Source: PDE
+https://www.resdac.org/cms-data/variables/days-supply  
+
+
+  - Quantity
+
+This variable is contained in the following files: Part D Drug Event File   
+Short SAS Name QTYDSPNS  
+SAS Name QTY_DSPNSD_NUM  
+This field indicates the number of units, grams, mililiters, or other quantity dispensed in the current drug event.
+If the PDE was for a compounded item, the quantity dispensed is the total of all ingredients. If the PDE was for a partial fill, the quantity is the total amount prescribed, not the portion covered by the partial fill.
+Comments: The values for this field are highly variable and depend on the form of the drug that was dispensed (e.g., liquids or tablets).
+Source: PDE
+https://www.resdac.org/cms-data/variables/quantity-dispensed
+
+
+
 ### References
 
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4419961/  (analysis was restricted to single-ingredient drugs; used ATC DDD; no comparison of dispensation data to prescription data; no aggregation/analysis within a single patient)
