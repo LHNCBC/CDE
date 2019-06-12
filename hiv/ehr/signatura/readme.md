@@ -24,9 +24,9 @@ Third, to evaluate data quality of days of supply field (assuming medication com
 - for later analysis QPD was rounded (e.g., value of 1 for values 0.75 to 1.25)
 
 
-- QDP examples
-  - Lopinavir/ritonavir QDP of 4
-  - Raltegravir or darunavir QDP of 1
+- QPD examples
+  - Lopinavir/ritonavir QPD of 4
+  - Raltegravir or darunavir QPD of 1
 
 
 - VRDC definitions (from https://www.resdac.org/cms-data/files/pde/data-documentation)
