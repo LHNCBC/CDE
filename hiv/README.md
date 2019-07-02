@@ -31,14 +31,13 @@ also see files for some of them in https://github.com/lhncbc/CDE/tree/master/hiv
 
 - 2019-01: Wilson, P, Huser V. Discoverability, Accessibility, and Availability of Full Clinical Trial Protocols: An Analysis of PubMed, ClinicalTrials.gov, and 6 Data Sharing Platforms NLM report 2019; [download](publications/Protocols-analysis.docx?raw=true)
 
-
 - 2019-06: Huser V, Williams N, Inferring patient instructions (signatura) from pharmacy dispensation data, Mobilizing Computable Biomedical Knowledge 2019; link: https://github.com/lhncbc/CDE/tree/master/hiv/ehr/signatura
 
-- 2019-06: Williams N,  title Mobilizing Computable Biomedical Knowledge 2019
+- 2019-06: Williams N, Fung KW, Preliminary Analysis of Data Element Commonality across Clinical Trial, Observational and Electronic Health Records that describe HIV infected Patients in the United States, Mobilizing Computable Biomedical Knowledge 2019
 
-- 2019-06: Mayer C, Data Dictionaries of HIV registries Mobilizing Computable Biomedical Knowledge 2019; link: https://github.com/lhncbc/CDE/tree/master/hiv/registries 
+- 2019-06: Mayer C, Data Dictionaries of HIV registries, Mobilizing Computable Biomedical Knowledge 2019; link: https://github.com/lhncbc/CDE/tree/master/hiv/registries 
 
-- 2019-11: Mayer C, ..., Huser V, Sharing of Individual Participant Data from Clinical Trials: General Comparison and HIV Use Case. (full paper) AMIA Annual Symposium, 2019, link: https://github.com/lhncbc/r-snippets-bmi/tree/master/CTG/sharing 
+- 2019-11: Mayer C, Williams N, Gold S, Fung KW, Huser V, Sharing of Individual Participant Data from Clinical Trials: General Comparison and HIV Use Case. (full paper) AMIA Annual Symposium, 2019, link: https://github.com/lhncbc/r-snippets-bmi/tree/master/CTG/sharing 
 
 - 2019-11: Automated Discovery of Common Data Elements in HIV Clinical Trials Using an Interaction Network. AMIA Annual Symposium, 2019
 
