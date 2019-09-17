@@ -49,5 +49,5 @@ also see files for some of them in https://github.com/lhncbc/CDE/tree/master/hiv
 
 ## Training materials
 
-- (CONSIDER statement)[https://rawgit.com/lhncbc/CDE/master/CONSIDER.htm]
+- [https://rawgit.com/lhncbc/CDE/master/CONSIDER.htm](CONSIDER statement)
 - other training materials https://github.com/lhncbc/CDE/tree/master/training 
