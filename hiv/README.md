@@ -43,7 +43,7 @@ also see files for some of them in https://github.com/lhncbc/CDE/tree/master/hiv
 
 - 2019-08: Williams N, Mayer C, Gold S, Huser V, Fung KW, Case Definitions Beware: RX and Labs return minor improvements in HIV prevalence capture for Medicare Parts D and B for 2012 to 2016. OHDSI Symposium 2019. 
 
-- 2019-10: Mayer CS, Williams N, Fung KW, Huser V. Evaluation of Research Accessibility and Data Elements of HIV Registries. Curr HIV Res. 2019 Sep 24. doi: 10.2174/1570162X17666190924195439 [https://www.ncbi.nlm.nih.gov/pubmed/31550214](https://www.ncbi.nlm.nih.gov/pubmed/31550214])
+- 2019-10: Mayer CS, Williams N, Fung KW, Huser V. Evaluation of Research Accessibility and Data Elements of HIV Registries. Curr HIV Res. 2019 Sep 24. doi: 10.2174/1570162X17666190924195439 [https://www.ncbi.nlm.nih.gov/pubmed/31550214](https://www.ncbi.nlm.nih.gov/pubmed/31550214)
 
 - 2019-11: Mayer C, Williams N, Gold S, Fung KW, Huser V, Sharing of Individual Participant Data from Clinical Trials: General Comparison and HIV Use Case. (full paper) AMIA Annual Symposium, 2019, link: https://github.com/lhncbc/r-snippets-bmi/tree/master/CTG/sharing 
 
