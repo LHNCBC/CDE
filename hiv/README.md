@@ -51,4 +51,4 @@ also see files for some of them in https://github.com/lhncbc/CDE/tree/master/hiv
 
 ## Training materials
 
-- (draft status) training materials https://github.com/lhncbc/CDE/tree/master/training 
+- (draft status) training materials https://github.com/lhncbc/CDE/tree/master/hiv/training 
