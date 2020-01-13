@@ -49,6 +49,8 @@ also see files for some of them in https://github.com/lhncbc/CDE/tree/master/hiv
 
 - 2019-11: Automated Discovery of Common Data Elements in HIV Clinical Trials Using an Interaction Network. AMIA Annual Symposium, 2019
 
+- 2019-12: HIV and cancer, Think Tank meeting
+
 ## Training materials
 
 - (draft status) training materials https://github.com/lhncbc/CDE/tree/master/hiv/training 
