@@ -13,9 +13,9 @@ File lists rule thresholds for each rule.
 
 ## S2
 
-Selected results for individual clinical drugs from a claims database.
-Each row is for one clinical drug.
-File can be used to find drugs with most rule violations.
+Selected results for individual clinical drugs from a claims database.  
+Each row is for one clinical drug.  
+File can be used to find drugs with most rule violations.  
 
 ## S1b
 
