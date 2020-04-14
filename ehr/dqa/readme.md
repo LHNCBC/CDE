@@ -19,4 +19,5 @@ File can be used to find drugs with most rule violations.
 
 ## S1b
 
-Same as S1 but expands each line in S1 to NDC level. This file can be used by PCORNet or Sentinel if their drug data is on NDC level and not mapped to RxNorm (as target terminology)
+Same as S1 but expands each line in S1 to NDC level. This file can be used by PCORNet or Sentinel if their drug data is on NDC level and not mapped to RxNorm (as target terminology).
+Because of limit of 100MB (by Github.com), the file is zipped. It is a single CSV file. Can be read by `read_csv(url-of-zipped-file)`
