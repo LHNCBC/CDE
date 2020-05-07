@@ -50,8 +50,8 @@ DRR who is receiving the data. Data recipient may have to pay to use a tethered 
 
 ### Axioms:
  - Data elements can be closely related. E.g., month of birth and year of birth are closely related. Should they be two elements or one with sub-components. 
- - Similarities in modelling data by Common Data Models (e.g., OMOP, PCORNet, Sentinel) and FHIR standard provide binding knowledge on what should be grouped and how  (e.g., eGFR date and eGRF value). This is called `EHR data convention`.
- - Entity-Attribute-Value paradigm provides a long form of representation of data. Long format is preferred. See https://r4ds.had.co.nz/tidy-data.html
+ - Similarities in modelling data by Common Data Models (e.g., OMOP, PCORNet, Sentinel) and FHIR standard provide binding knowledge on what should be grouped and how  (e.g., eGFR date and eGRF value). This is called `EHR data convention` (see https://www.ncbi.nlm.nih.gov/pubmed/31550214 for reference and definition of this convention).
+ - Entity-Attribute-Value paradigm provides a long form of representation of data. Long format is preferred and is refered to as *tidy*. See https://r4ds.had.co.nz/tidy-data.html
  
 ### Grouped data elements (definitions)
 - Two data elements are grouped (*row-grouped*) if they appear on the same row in a common data model that uses a relational database (e.g., eGFR date, eGFR value are grouped). If a study has split a grouped data elements into two independent elements, it is not considered compliant with `Good Clinical Data Practice`.
