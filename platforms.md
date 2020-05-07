@@ -42,3 +42,16 @@ An analytical platform that is tighly linked with a data sharing platform. Vivli
 PI or research team who is sharing data on a platform. Data depositor may have to pay to use a platform.
 ### data recipient
 DRR who is receiving the data. Data recipient may have to pay to use a tethered analytical platform and data use may be restricted to such tethered analytical system.
+
+
+# Data Elements
+
+## Groupings of data elements
+
+### Axioms:
+ - Data elements can be closely related. E.g., month of birth and year of birth are closely related. Should they be two elements or one with sub-components. 
+ - Similarities in modelling data by Common Data Models (e.g., OMOP, PCORNet, Sentinel) and FHIR standard provide binding knowledge on what should be grouped and how  (e.g., eGFR date and eGRF value). This is called EHR data convention.
+ -
+ 
+### Grouped data elements
+Two data elements are grouped if they appear on the same row in a common data model that uses a relational database. If a study has split a grouped data elements into two independent elements, it is not considered compliant with `Good Clinical Data Practice`.
