@@ -49,7 +49,7 @@ also see files for some of them in https://github.com/lhncbc/CDE/tree/master/hiv
 
 - Williams N, Mayer C, Huser V. Automated Discovery of Common Data Elements in HIV Clinical Trials Using an Interaction Network. AMIA Annual Symposium, 2019
 
-- Williams N, Mayer C, Huser V. Medicaid population analysis for cancer mortality in HIV patients, NIH Think Tank meeting on HIV (Dec 2019), Bethesda, MD 
+- Williams N, Mayer C, Huser V. Medicare population analysis for cancer mortality in HIV patients, NIH Think Tank meeting on HIV (Dec 2019), Bethesda, MD 
 
 ## Training materials
 
