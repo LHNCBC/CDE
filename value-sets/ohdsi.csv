@@ -1,0 +1,638 @@
+"","concept_id","concept_name","concept_code","vs_name","Code Source","vocabulary_id","overlap_flag"
+"1",44834720,"Acute myocardial infarction of othe","410.51","AMI","CCW","ICD9_CM","TRUE"
+"2",44827782,"Acute myocardial infarction of othe","410.11","AMI","CCW","ICD9_CM","TRUE"
+"3",35207684,"ST elevation (STEMI) myocardial inf","I21.3","AMI","CCW","ICD10_CM","TRUE"
+"4",45576865,"ST elevation (STEMI) myocardial inf","I21.09","AMI","CCW","ICD10_CM","TRUE"
+"5",45557536,"ST elevation (STEMI) myocardial inf","I21.29","AMI","CCW","ICD10_CM","TRUE"
+"6",45605779,"ST elevation (STEMI) myocardial inf","I21.19","AMI","CCW","ICD10_CM","TRUE"
+"7",45572080,"ST elevation (STEMI) myocardial inf","I21.21","AMI","CCW","ICD10_CM","TRUE"
+"8",44835926,"Acute myocardial infarction of othe","410.41","AMI","CCW","ICD9_CM","TRUE"
+"9",44823111,"Acute myocardial infarction of ante","410.01","AMI","CCW","ICD9_CM","TRUE"
+"10",45562340,"ST elevation (STEMI) myocardial inf","I21.01","AMI","CCW","ICD10_CM","TRUE"
+"11",44825429,"Subendocardial infarction, initial ","410.71","AMI","CCW","ICD9_CM","TRUE"
+"12",35207685,"Non-ST elevation (NSTEMI) myocardia","I21.4","AMI","CCW","ICD10_CM","TRUE"
+"13",44834724,"Acute myocardial infarction of othe","410.81","AMI","CCW","ICD9_CM","TRUE"
+"14",1326588,"Acute myocardial infarction, unspec","I21.9","AMI","CCW","ICD10_CM","TRUE"
+"15",44825430,"Acute myocardial infarction of unsp","410.91","AMI","CCW","ICD9_CM","TRUE"
+"16",45533436,"ST elevation (STEMI) myocardial inf","I21.11","AMI","CCW","ICD10_CM","TRUE"
+"17",44833561,"Acute myocardial infarction of infe","410.31","AMI","CCW","ICD9_CM","TRUE"
+"18",45572079,"ST elevation (STEMI) myocardial inf","I21.02","AMI","CCW","ICD10_CM","TRUE"
+"19",44819700,"Acute myocardial infarction of infe","410.21","AMI","CCW","ICD9_CM","TRUE"
+"20",NA,NA,"410.61","AMI","CCW","ICD9_CM",NA
+"21",NA,NA,"I21.A1","AMI","CCW","ICD10_CM",NA
+"22",NA,NA,"I21.A9","AMI","CCW","ICD10_CM",NA
+"23",NA,NA,"I22.0","AMI","CCW","ICD10_CM",NA
+"24",NA,NA,"I22.1","AMI","CCW","ICD10_CM",NA
+"25",NA,NA,"I22.2","AMI","CCW","ICD10_CM",NA
+"26",NA,NA,"I22.8","AMI","CCW","ICD10_CM",NA
+"27",NA,NA,"I22.9","AMI","CCW","ICD10_CM",NA
+"28",45533018,"Type 1 diabetes mellitus with hyper","E10.65","Diabeties","CCW","ICD10_CM","TRUE"
+"29",35206878,"Type 1 diabetes mellitus with unspe","E10.8","Diabeties","CCW","ICD10_CM","TRUE"
+"30",45557111,"Type 1 diabetes mellitus with perio","E10.630","Diabeties","CCW","ICD10_CM","TRUE"
+"31",45605398,"Type 1 diabetes mellitus with foot ","E10.621","Diabeties","CCW","ICD10_CM","TRUE"
+"32",45576440,"Type 1 diabetes mellitus with diabe","E10.610","Diabeties","CCW","ICD10_CM","TRUE"
+"33",44824071,"Diabetes with ketoacidosis, type I ","250.11","Diabeties","CCW","ICD9_CM","TRUE"
+"34",44832192,"Diabetes with other coma, type I [j","250.31","Diabeties","CCW","ICD9_CM","TRUE"
+"35",44836918,"Diabetes with other specified manif","250.81","Diabeties","CCW","ICD9_CM","TRUE"
+"36",44819504,"Diabetes with unspecified complicat","250.93","Diabeties","CCW","ICD9_CM","TRUE"
+"37",44833368,"Diabetes with other specified manif","250.83","Diabeties","CCW","ICD9_CM","TRUE"
+"38",45600636,"Type 1 diabetes mellitus with ketoa","E10.10","Diabeties","CCW","ICD10_CM","TRUE"
+"39",45547624,"Type 1 diabetes mellitus with other","E10.69","Diabeties","CCW","ICD10_CM","TRUE"
+"40",45600640,"Type 1 diabetes mellitus with hypog","E10.649","Diabeties","CCW","ICD10_CM","TRUE"
+"41",45547623,"Type 1 diabetes mellitus with other","E10.638","Diabeties","CCW","ICD10_CM","TRUE"
+"42",45542737,"Type 1 diabetes mellitus with diabe","E10.52","Diabeties","CCW","ICD10_CM","TRUE"
+"43",44822934,"Diabetes with ketoacidosis, type I ","250.13","Diabeties","CCW","ICD9_CM","TRUE"
+"44",44832191,"Diabetes with hyperosmolarity, type","250.23","Diabeties","CCW","ICD9_CM","TRUE"
+"45",44829881,"Diabetes with unspecified complicat","250.91","Diabeties","CCW","ICD9_CM","TRUE"
+"46",44820682,"Diabetes mellitus without mention o","250.01","Diabeties","CCW","ICD9_CM","TRUE"
+"47",44821787,"Diabetes mellitus without mention o","250.03","Diabeties","CCW","ICD9_CM","TRUE"
+"48",35206879,"Type 1 diabetes mellitus without co","E10.9","Diabeties","CCW","ICD10_CM","TRUE"
+"49",35206882,"Type 2 diabetes mellitus without co","E11.9","Diabeties","CCW","ICD10_CM","TRUE"
+"50",44836915,"Diabetes mellitus without mention o","250.02","Diabeties","CCW","ICD9_CM","TRUE"
+"51",35206885,"Other specified diabetes mellitus w","E13.9","Diabeties","CCW","ICD10_CM","TRUE"
+"52",45571652,"Diabetes mellitus due to underlying","E08.9","Diabeties","CCW","ICD10_CM","TRUE"
+"53",45561953,"Other specified diabetes mellitus w","E13.00","Diabeties","CCW","ICD10_CM","TRUE"
+"54",45581358,"Other specified diabetes mellitus w","E13.618","Diabeties","CCW","ICD10_CM","TRUE"
+"55",45566733,"Other specified diabetes mellitus w","E13.10","Diabeties","CCW","ICD10_CM","TRUE"
+"56",45586144,"Other specified diabetes mellitus w","E13.610","Diabeties","CCW","ICD10_CM","TRUE"
+"57",45600644,"Other specified diabetes mellitus w","E13.69","Diabeties","CCW","ICD10_CM","TRUE"
+"58",45557116,"Other specified diabetes mellitus w","E13.622","Diabeties","CCW","ICD10_CM","TRUE"
+"59",44819503,"Diabetes with other specified manif","250.8","Diabeties","CCW","ICD9_CM","TRUE"
+"60",44833365,"Diabetes mellitus","250","Diabeties","CCW","ICD9_CM","TRUE"
+"61",45533024,"Other specified diabetes mellitus w","E13.649","Diabeties","CCW","ICD10_CM","TRUE"
+"62",45566736,"Other specified diabetes mellitus w","E13.621","Diabeties","CCW","ICD10_CM","TRUE"
+"63",35206884,"Other specified diabetes mellitus w","E13.8","Diabeties","CCW","ICD10_CM","TRUE"
+"64",45566737,"Other specified diabetes mellitus w","E13.638","Diabeties","CCW","ICD10_CM","TRUE"
+"65",45581359,"Other specified diabetes mellitus w","E13.630","Diabeties","CCW","ICD10_CM","TRUE"
+"66",44828793,"Diabetes with ketoacidosis","250.1","Diabeties","CCW","ICD9_CM","TRUE"
+"67",44820685,"Diabetes with unspecified complicat","250.9","Diabeties","CCW","ICD9_CM","TRUE"
+"68",45595805,"Other specified diabetes mellitus w","E13.65","Diabeties","CCW","ICD10_CM","TRUE"
+"69",37200252,"Type 2 diabetes mellitus with diabe","E11.37X2","Diabeties","CCW","ICD10_CM","TRUE"
+"70",45542738,"Type 2 diabetes mellitus with hyper","E11.00","Diabeties","CCW","ICD10_CM","TRUE"
+"71",37200254,"Type 2 diabetes mellitus with diabe","E11.37X9","Diabeties","CCW","ICD10_CM","TRUE"
+"72",1326492,"Type 2 diabetes mellitus with ketoa","E11.10","Diabeties","CCW","ICD10_CM","TRUE"
+"73",45605405,"Type 2 diabetes mellitus with hyper","E11.65","Diabeties","CCW","ICD10_CM","TRUE"
+"74",45533022,"Type 2 diabetes mellitus with diabe","E11.52","Diabeties","CCW","ICD10_CM","TRUE"
+"75",45581355,"Type 2 diabetes mellitus with foot ","E11.621","Diabeties","CCW","ICD10_CM","TRUE"
+"76",44829882,"Diabetes with unspecified complicat","250.92","Diabeties","CCW","ICD9_CM","TRUE"
+"77",37200251,"Type 2 diabetes mellitus with diabe","E11.37X1","Diabeties","CCW","ICD10_CM","TRUE"
+"78",37200253,"Type 2 diabetes mellitus with diabe","E11.37X3","Diabeties","CCW","ICD10_CM","TRUE"
+"79",45595797,"Type 2 diabetes mellitus with diabe","E11.22","Diabeties","CCW","ICD10_CM","TRUE"
+"80",45566731,"Type 2 diabetes mellitus with other","E11.638","Diabeties","CCW","ICD10_CM","TRUE"
+"81",45591031,"Type 2 diabetes mellitus with hypog","E11.649","Diabeties","CCW","ICD10_CM","TRUE"
+"82",45595799,"Type 2 diabetes mellitus with other","E11.69","Diabeties","CCW","ICD10_CM","TRUE"
+"83",35206881,"Type 2 diabetes mellitus with unspe","E11.8","Diabeties","CCW","ICD10_CM","TRUE"
+"84",44824072,"Diabetes with ketoacidosis, type II","250.12","Diabeties","CCW","ICD9_CM","TRUE"
+"85",44826461,"Diabetes with other specified manif","250.82","Diabeties","CCW","ICD9_CM","TRUE"
+"86",45533023,"Type 2 diabetes mellitus with perio","E11.630","Diabeties","CCW","ICD10_CM","TRUE"
+"87",37200080,"Diabetes mellitus due to underlying","E08.37X1","Diabeties","CCW","ICD10_CM","TRUE"
+"88",45595789,"Diabetes mellitus due to underlying","E08.43","Diabeties","CCW","ICD10_CM","TRUE"
+"89",45591023,"Diabetes mellitus due to underlying","E08.351","Diabeties","CCW","ICD10_CM","TRUE"
+"90",45581344,"Diabetes mellitus due to underlying","E08.621","Diabeties","CCW","ICD10_CM","TRUE"
+"91",45542730,"Diabetes mellitus due to underlying","E08.610","Diabeties","CCW","ICD10_CM","TRUE"
+"92",45547618,"Diabetes mellitus due to underlying","E08.622","Diabeties","CCW","ICD10_CM","TRUE"
+"93",45561940,"Diabetes mellitus due to underlying","E08.359","Diabeties","CCW","ICD10_CM","TRUE"
+"94",45533009,"Diabetes mellitus due to underlying","E08.21","Diabeties","CCW","ICD10_CM","TRUE"
+"95",45557106,"Diabetes mellitus due to underlying","E08.01","Diabeties","CCW","ICD10_CM","TRUE"
+"96",45571652,"Diabetes mellitus due to underlying","E08.9","Diabeties","CCW","ICD10_CM","TRUE"
+"97",45552374,"Diabetes mellitus due to underlying","E08.39","Diabeties","CCW","ICD10_CM","TRUE"
+"98",45552372,"Diabetes mellitus due to underlying","E08.22","Diabeties","CCW","ICD10_CM","TRUE"
+"99",45605392,"Diabetes mellitus due to underlying","E08.40","Diabeties","CCW","ICD10_CM","TRUE"
+"100",37200074,"Diabetes mellitus due to underlying","E08.3559","Diabeties","CCW","ICD10_CM","TRUE"
+"101",37200050,"Diabetes mellitus due to underlying","E08.3499","Diabeties","CCW","ICD10_CM","TRUE"
+"102",37200028,"Diabetes mellitus due to underlying","E08.3212","Diabeties","CCW","ICD10_CM","TRUE"
+"103",37200049,"Diabetes mellitus due to underlying","E08.3493","Diabeties","CCW","ICD10_CM","TRUE"
+"104",37200030,"Diabetes mellitus due to underlying","E08.3219","Diabeties","CCW","ICD10_CM","TRUE"
+"105",37200036,"Diabetes mellitus due to underlying","E08.3312","Diabeties","CCW","ICD10_CM","TRUE"
+"106",37200051,"Diabetes mellitus due to underlying","E08.3511","Diabeties","CCW","ICD10_CM","TRUE"
+"107",37200039,"Diabetes mellitus due to underlying","E08.3391","Diabeties","CCW","ICD10_CM","TRUE"
+"108",37200061,"Diabetes mellitus due to underlying","E08.3531","Diabeties","CCW","ICD10_CM","TRUE"
+"109",37200068,"Diabetes mellitus due to underlying","E08.3543","Diabeties","CCW","ICD10_CM","TRUE"
+"110",37200048,"Diabetes mellitus due to underlying","E08.3492","Diabeties","CCW","ICD10_CM","TRUE"
+"111",37200047,"Diabetes mellitus due to underlying","E08.3491","Diabeties","CCW","ICD10_CM","TRUE"
+"112",37200054,"Diabetes mellitus due to underlying","E08.3519","Diabeties","CCW","ICD10_CM","TRUE"
+"113",37200072,"Diabetes mellitus due to underlying","E08.3552","Diabeties","CCW","ICD10_CM","TRUE"
+"114",45561942,"Diabetes mellitus due to underlying","E08.52","Diabeties","CCW","ICD10_CM","TRUE"
+"115",37200035,"Diabetes mellitus due to underlying","E08.3311","Diabeties","CCW","ICD10_CM","TRUE"
+"116",37200044,"Diabetes mellitus due to underlying","E08.3412","Diabeties","CCW","ICD10_CM","TRUE"
+"117",37200071,"Diabetes mellitus due to underlying","E08.3551","Diabeties","CCW","ICD10_CM","TRUE"
+"118",45537953,"Diabetes mellitus due to underlying","E08.11","Diabeties","CCW","ICD10_CM","TRUE"
+"119",37200075,"Diabetes mellitus due to underlying","E08.3591","Diabeties","CCW","ICD10_CM","TRUE"
+"120",37200066,"Diabetes mellitus due to underlying","E08.3541","Diabeties","CCW","ICD10_CM","TRUE"
+"121",37200037,"Diabetes mellitus due to underlying","E08.3313","Diabeties","CCW","ICD10_CM","TRUE"
+"122",37200069,"Diabetes mellitus due to underlying","E08.3549","Diabeties","CCW","ICD10_CM","TRUE"
+"123",37200076,"Diabetes mellitus due to underlying","E08.3592","Diabeties","CCW","ICD10_CM","TRUE"
+"124",37200034,"Diabetes mellitus due to underlying","E08.3299","Diabeties","CCW","ICD10_CM","TRUE"
+"125",37200058,"Diabetes mellitus due to underlying","E08.3523","Diabeties","CCW","ICD10_CM","TRUE"
+"126",37200057,"Diabetes mellitus due to underlying","E08.3522","Diabeties","CCW","ICD10_CM","TRUE"
+"127",37200056,"Diabetes mellitus due to underlying","E08.3521","Diabeties","CCW","ICD10_CM","TRUE"
+"128",37200062,"Diabetes mellitus due to underlying","E08.3532","Diabeties","CCW","ICD10_CM","TRUE"
+"129",44831044,"Secondary diabetes mellitus with hy","249.2","Diabeties","CCW","ICD9_CM","TRUE"
+"130",44828791,"Secondary diabetes mellitus with un","249.9","Diabeties","CCW","ICD9_CM","TRUE"
+"131",44832188,"Secondary diabetes mellitus without","249.01","Diabeties","CCW","ICD9_CM","TRUE"
+"132",44832187,"Secondary diabetes mellitus","249","Diabeties","CCW","ICD9_CM","TRUE"
+"133",44836913,"Secondary diabetes mellitus with op","249.51","Diabeties","CCW","ICD9_CM","TRUE"
+"134",44836912,"Secondary diabetes mellitus with ot","249.31","Diabeties","CCW","ICD9_CM","TRUE"
+"135",44835750,"Secondary diabetes mellitus with re","249.41","Diabeties","CCW","ICD9_CM","TRUE"
+"136",44835747,"Secondary diabetes mellitus with ke","249.1","Diabeties","CCW","ICD9_CM","TRUE"
+"137",44834547,"Secondary diabetes mellitus with re","249.4","Diabeties","CCW","ICD9_CM","TRUE"
+"138",44821786,"Secondary diabetes mellitus with ot","249.8","Diabeties","CCW","ICD9_CM","TRUE"
+"139",44825262,"Secondary diabetes mellitus with ne","249.6","Diabeties","CCW","ICD9_CM","TRUE"
+"140",45600633,"Diabetes mellitus due to underlying","E08.321","Diabeties","CCW","ICD10_CM","TRUE"
+"141",45561943,"Diabetes mellitus due to underlying","E08.649","Diabeties","CCW","ICD10_CM","TRUE"
+"142",45537954,"Diabetes mellitus due to underlying","E08.638","Diabeties","CCW","ICD10_CM","TRUE"
+"143",37200083,"Diabetes mellitus due to underlying","E08.37X9","Diabeties","CCW","ICD10_CM","TRUE"
+"144",37200082,"Diabetes mellitus due to underlying","E08.37X3","Diabeties","CCW","ICD10_CM","TRUE"
+"145",37200081,"Diabetes mellitus due to underlying","E08.37X2","Diabeties","CCW","ICD10_CM","TRUE"
+"146",45605394,"Diabetes mellitus due to underlying","E08.618","Diabeties","CCW","ICD10_CM","TRUE"
+"147",45533011,"Diabetes mellitus due to underlying","E08.620","Diabeties","CCW","ICD10_CM","TRUE"
+"148",45571651,"Diabetes mellitus due to underlying","E08.630","Diabeties","CCW","ICD10_CM","TRUE"
+"149",45595792,"Diabetes mellitus due to underlying","E08.65","Diabeties","CCW","ICD10_CM","TRUE"
+"150",45571649,"Diabetes mellitus due to underlying","E08.10","Diabeties","CCW","ICD10_CM","TRUE"
+"151",45542728,"Diabetes mellitus due to underlying","E08.29","Diabeties","CCW","ICD10_CM","TRUE"
+"152",45595790,"Diabetes mellitus due to underlying","E08.49","Diabeties","CCW","ICD10_CM","TRUE"
+"153",45581342,"Diabetes mellitus due to underlying","E08.341","Diabeties","CCW","ICD10_CM","TRUE"
+"154",45605393,"Diabetes mellitus due to underlying","E08.44","Diabeties","CCW","ICD10_CM","TRUE"
+"155",45542731,"Diabetes mellitus due to underlying","E08.69","Diabeties","CCW","ICD10_CM","TRUE"
+"156",37200033,"Diabetes mellitus due to underlying","E08.3293","Diabeties","CCW","ICD10_CM","TRUE"
+"157",37200053,"Diabetes mellitus due to underlying","E08.3513","Diabeties","CCW","ICD10_CM","TRUE"
+"158",37200073,"Diabetes mellitus due to underlying","E08.3553","Diabeties","CCW","ICD10_CM","TRUE"
+"159",37200029,"Diabetes mellitus due to underlying","E08.3213","Diabeties","CCW","ICD10_CM","TRUE"
+"160",37200063,"Diabetes mellitus due to underlying","E08.3533","Diabeties","CCW","ICD10_CM","TRUE"
+"161",37200032,"Diabetes mellitus due to underlying","E08.3292","Diabeties","CCW","ICD10_CM","TRUE"
+"162",37200031,"Diabetes mellitus due to underlying","E08.3291","Diabeties","CCW","ICD10_CM","TRUE"
+"163",37200064,"Diabetes mellitus due to underlying","E08.3539","Diabeties","CCW","ICD10_CM","TRUE"
+"164",37200077,"Diabetes mellitus due to underlying","E08.3593","Diabeties","CCW","ICD10_CM","TRUE"
+"165",37200052,"Diabetes mellitus due to underlying","E08.3512","Diabeties","CCW","ICD10_CM","TRUE"
+"166",37200027,"Diabetes mellitus due to underlying","E08.3211","Diabeties","CCW","ICD10_CM","TRUE"
+"167",45581343,"Diabetes mellitus due to underlying","E08.59","Diabeties","CCW","ICD10_CM","TRUE"
+"168",37200046,"Diabetes mellitus due to underlying","E08.3419","Diabeties","CCW","ICD10_CM","TRUE"
+"169",37200045,"Diabetes mellitus due to underlying","E08.3413","Diabeties","CCW","ICD10_CM","TRUE"
+"170",45595791,"Diabetes mellitus due to underlying","E08.51","Diabeties","CCW","ICD10_CM","TRUE"
+"171",37200043,"Diabetes mellitus due to underlying","E08.3411","Diabeties","CCW","ICD10_CM","TRUE"
+"172",37200067,"Diabetes mellitus due to underlying","E08.3542","Diabeties","CCW","ICD10_CM","TRUE"
+"173",37200059,"Diabetes mellitus due to underlying","E08.3529","Diabeties","CCW","ICD10_CM","TRUE"
+"174",37200041,"Diabetes mellitus due to underlying","E08.3393","Diabeties","CCW","ICD10_CM","TRUE"
+"175",37200040,"Diabetes mellitus due to underlying","E08.3392","Diabeties","CCW","ICD10_CM","TRUE"
+"176",37200078,"Diabetes mellitus due to underlying","E08.3599","Diabeties","CCW","ICD10_CM","TRUE"
+"177",44819499,"Secondary diabetes mellitus with hy","249.21","Diabeties","CCW","ICD9_CM","TRUE"
+"178",44820681,"Secondary diabetes mellitus with ke","249.11","Diabeties","CCW","ICD9_CM","TRUE"
+"179",44828789,"Secondary diabetes mellitus with pe","249.7","Diabeties","CCW","ICD9_CM","TRUE"
+"180",44828788,"Secondary diabetes mellitus with op","249.5","Diabeties","CCW","ICD9_CM","TRUE"
+"181",44832189,"Secondary diabetes mellitus with ot","249.3","Diabeties","CCW","ICD9_CM","TRUE"
+"182",44835751,"Secondary diabetes mellitus with pe","249.71","Diabeties","CCW","ICD9_CM","TRUE"
+"183",44822933,"Secondary diabetes mellitus with ne","249.61","Diabeties","CCW","ICD9_CM","TRUE"
+"184",44829877,"Secondary diabetes mellitus with un","249.91","Diabeties","CCW","ICD9_CM","TRUE"
+"185",44825263,"Secondary diabetes mellitus with ot","249.81","Diabeties","CCW","ICD9_CM","TRUE"
+"186",45571650,"Diabetes mellitus due to underlying","E08.628","Diabeties","CCW","ICD10_CM","TRUE"
+"187",45605395,"Diabetes mellitus due to underlying","E08.8","Diabeties","CCW","ICD10_CM","TRUE"
+"188",45566724,"Diabetes mellitus due to underlying","E08.36","Diabeties","CCW","ICD10_CM","TRUE"
+"189",45600634,"Diabetes mellitus due to underlying","E08.329","Diabeties","CCW","ICD10_CM","TRUE"
+"190",45561941,"Diabetes mellitus due to underlying","E08.41","Diabeties","CCW","ICD10_CM","TRUE"
+"191",45586132,"Diabetes mellitus due to underlying","E08.00","Diabeties","CCW","ICD10_CM","TRUE"
+"192",45552373,"Diabetes mellitus due to underlying","E08.319","Diabeties","CCW","ICD10_CM","TRUE"
+"193",45547617,"Diabetes mellitus due to underlying","E08.42","Diabeties","CCW","ICD10_CM","TRUE"
+"194",45533010,"Diabetes mellitus due to underlying","E08.311","Diabeties","CCW","ICD10_CM","TRUE"
+"195",45542729,"Diabetes mellitus due to underlying","E08.349","Diabeties","CCW","ICD10_CM","TRUE"
+"196",45552375,"Diabetes mellitus due to underlying","E08.641","Diabeties","CCW","ICD10_CM","TRUE"
+"197",45600642,"Type 2 diabetes mellitus with other","E11.622","Diabeties","CCW","ICD10_CM","TRUE"
+"198",37200101,"Drug or chemical induced diabetes m","E09.3412","Diabeties","CCW","ICD10_CM","TRUE"
+"199",37200115,"Drug or chemical induced diabetes m","E09.3523","Diabeties","CCW","ICD10_CM","TRUE"
+"200",37200120,"Drug or chemical induced diabetes m","E09.3533","Diabeties","CCW","ICD10_CM","TRUE"
+"201",37200094,"Drug or chemical induced diabetes m","E09.3313","Diabeties","CCW","ICD10_CM","TRUE"
+"202",37200130,"Drug or chemical induced diabetes m","E09.3553","Diabeties","CCW","ICD10_CM","TRUE"
+"203",45600635,"Drug or chemical induced diabetes m","E09.52","Diabeties","CCW","ICD10_CM","TRUE"
+"204",45581347,"Drug or chemical induced diabetes m","E09.51","Diabeties","CCW","ICD10_CM","TRUE"
+"205",37200095,"Drug or chemical induced diabetes m","E09.3319","Diabeties","CCW","ICD10_CM","TRUE"
+"206",37200125,"Drug or chemical induced diabetes m","E09.3543","Diabeties","CCW","ICD10_CM","TRUE"
+"207",37200096,"Drug or chemical induced diabetes m","E09.3391","Diabeties","CCW","ICD10_CM","TRUE"
+"208",45537955,"Drug or chemical induced diabetes m","E09.10","Diabeties","CCW","ICD10_CM","TRUE"
+"209",45576430,"Drug or chemical induced diabetes m","E09.01","Diabeties","CCW","ICD10_CM","TRUE"
+"210",45542733,"Drug or chemical induced diabetes m","E09.42","Diabeties","CCW","ICD10_CM","TRUE"
+"211",37200129,"Drug or chemical induced diabetes m","E09.3552","Diabeties","CCW","ICD10_CM","TRUE"
+"212",37200118,"Drug or chemical induced diabetes m","E09.3531","Diabeties","CCW","ICD10_CM","TRUE"
+"213",37200132,"Drug or chemical induced diabetes m","E09.3591","Diabeties","CCW","ICD10_CM","TRUE"
+"214",45581346,"Drug or chemical induced diabetes m","E09.41","Diabeties","CCW","ICD10_CM","TRUE"
+"215",37200124,"Drug or chemical induced diabetes m","E09.3542","Diabeties","CCW","ICD10_CM","TRUE"
+"216",37200119,"Drug or chemical induced diabetes m","E09.3532","Diabeties","CCW","ICD10_CM","TRUE"
+"217",37200113,"Drug or chemical induced diabetes m","E09.3521","Diabeties","CCW","ICD10_CM","TRUE"
+"218",37200108,"Drug or chemical induced diabetes m","E09.3511","Diabeties","CCW","ICD10_CM","TRUE"
+"219",37200138,"Drug or chemical induced diabetes m","E09.37X2","Diabeties","CCW","ICD10_CM","TRUE"
+"220",37200107,"Drug or chemical induced diabetes m","E09.3499","Diabeties","CCW","ICD10_CM","TRUE"
+"221",37200128,"Drug or chemical induced diabetes m","E09.3551","Diabeties","CCW","ICD10_CM","TRUE"
+"222",37200110,"Drug or chemical induced diabetes m","E09.3513","Diabeties","CCW","ICD10_CM","TRUE"
+"223",37200106,"Drug or chemical induced diabetes m","E09.3493","Diabeties","CCW","ICD10_CM","TRUE"
+"224",37200090,"Drug or chemical induced diabetes m","E09.3293","Diabeties","CCW","ICD10_CM","TRUE"
+"225",37200093,"Drug or chemical induced diabetes m","E09.3312","Diabeties","CCW","ICD10_CM","TRUE"
+"226",37200091,"Drug or chemical induced diabetes m","E09.3299","Diabeties","CCW","ICD10_CM","TRUE"
+"227",45591024,"Drug or chemical induced diabetes m","E09.49","Diabeties","CCW","ICD10_CM","TRUE"
+"228",45552378,"Drug or chemical induced diabetes m","E09.641","Diabeties","CCW","ICD10_CM","TRUE"
+"229",37200114,"Drug or chemical induced diabetes m","E09.3522","Diabeties","CCW","ICD10_CM","TRUE"
+"230",37200097,"Drug or chemical induced diabetes m","E09.3392","Diabeties","CCW","ICD10_CM","TRUE"
+"231",45533014,"Drug or chemical induced diabetes m","E09.610","Diabeties","CCW","ICD10_CM","TRUE"
+"232",37200137,"Drug or chemical induced diabetes m","E09.37X1","Diabeties","CCW","ICD10_CM","TRUE"
+"233",37200134,"Drug or chemical induced diabetes m","E09.3593","Diabeties","CCW","ICD10_CM","TRUE"
+"234",45547620,"Drug or chemical induced diabetes m","E09.40","Diabeties","CCW","ICD10_CM","TRUE"
+"235",45566726,"Drug or chemical induced diabetes m","E09.59","Diabeties","CCW","ICD10_CM","TRUE"
+"236",37200111,"Drug or chemical induced diabetes m","E09.3519","Diabeties","CCW","ICD10_CM","TRUE"
+"237",45557108,"Drug or chemical induced diabetes m","E09.622","Diabeties","CCW","ICD10_CM","TRUE"
+"238",45591025,"Drug or chemical induced diabetes m","E09.618","Diabeties","CCW","ICD10_CM","TRUE"
+"239",45586136,"Drug or chemical induced diabetes m","E09.8","Diabeties","CCW","ICD10_CM","TRUE"
+"240",45576433,"Drug or chemical induced diabetes m","E09.319","Diabeties","CCW","ICD10_CM","TRUE"
+"241",45586134,"Drug or chemical induced diabetes m","E09.341","Diabeties","CCW","ICD10_CM","TRUE"
+"242",45542734,"Drug or chemical induced diabetes m","E09.630","Diabeties","CCW","ICD10_CM","TRUE"
+"243",45566725,"Drug or chemical induced diabetes m","E09.339","Diabeties","CCW","ICD10_CM","TRUE"
+"244",45586135,"Drug or chemical induced diabetes m","E09.359","Diabeties","CCW","ICD10_CM","TRUE"
+"245",45576431,"Drug or chemical induced diabetes m","E09.29","Diabeties","CCW","ICD10_CM","TRUE"
+"246",45576434,"Drug or chemical induced diabetes m","E09.321","Diabeties","CCW","ICD10_CM","TRUE"
+"247",45552377,"Drug or chemical induced diabetes m","E09.329","Diabeties","CCW","ICD10_CM","TRUE"
+"248",45561946,"Drug or chemical induced diabetes m","E09.39","Diabeties","CCW","ICD10_CM","TRUE"
+"249",45533012,"Drug or chemical induced diabetes m","E09.331","Diabeties","CCW","ICD10_CM","TRUE"
+"250",45547619,"Drug or chemical induced diabetes m","E09.351","Diabeties","CCW","ICD10_CM","TRUE"
+"251",37200123,"Drug or chemical induced diabetes m","E09.3541","Diabeties","CCW","ICD10_CM","TRUE"
+"252",45571653,"Drug or chemical induced diabetes m","E09.44","Diabeties","CCW","ICD10_CM","TRUE"
+"253",37200116,"Drug or chemical induced diabetes m","E09.3529","Diabeties","CCW","ICD10_CM","TRUE"
+"254",37200092,"Drug or chemical induced diabetes m","E09.3311","Diabeties","CCW","ICD10_CM","TRUE"
+"255",37200103,"Drug or chemical induced diabetes m","E09.3419","Diabeties","CCW","ICD10_CM","TRUE"
+"256",37200087,"Drug or chemical induced diabetes m","E09.3219","Diabeties","CCW","ICD10_CM","TRUE"
+"257",37200089,"Drug or chemical induced diabetes m","E09.3292","Diabeties","CCW","ICD10_CM","TRUE"
+"258",37200084,"Drug or chemical induced diabetes m","E09.3211","Diabeties","CCW","ICD10_CM","TRUE"
+"259",37200099,"Drug or chemical induced diabetes m","E09.3399","Diabeties","CCW","ICD10_CM","TRUE"
+"260",37200133,"Drug or chemical induced diabetes m","E09.3592","Diabeties","CCW","ICD10_CM","TRUE"
+"261",37200098,"Drug or chemical induced diabetes m","E09.3393","Diabeties","CCW","ICD10_CM","TRUE"
+"262",37200109,"Drug or chemical induced diabetes m","E09.3512","Diabeties","CCW","ICD10_CM","TRUE"
+"263",45581348,"Drug or chemical induced diabetes m","E09.649","Diabeties","CCW","ICD10_CM","TRUE"
+"264",37200105,"Drug or chemical induced diabetes m","E09.3492","Diabeties","CCW","ICD10_CM","TRUE"
+"265",37200139,"Drug or chemical induced diabetes m","E09.37X3","Diabeties","CCW","ICD10_CM","TRUE"
+"266",45586133,"Drug or chemical induced diabetes m","E09.11","Diabeties","CCW","ICD10_CM","TRUE"
+"267",37200102,"Drug or chemical induced diabetes m","E09.3413","Diabeties","CCW","ICD10_CM","TRUE"
+"268",37200140,"Drug or chemical induced diabetes m","E09.37X9","Diabeties","CCW","ICD10_CM","TRUE"
+"269",37200085,"Drug or chemical induced diabetes m","E09.3212","Diabeties","CCW","ICD10_CM","TRUE"
+"270",37200121,"Drug or chemical induced diabetes m","E09.3539","Diabeties","CCW","ICD10_CM","TRUE"
+"271",37200086,"Drug or chemical induced diabetes m","E09.3213","Diabeties","CCW","ICD10_CM","TRUE"
+"272",45557109,"Drug or chemical induced diabetes m","E09.65","Diabeties","CCW","ICD10_CM","TRUE"
+"273",37200135,"Drug or chemical induced diabetes m","E09.3599","Diabeties","CCW","ICD10_CM","TRUE"
+"274",37200126,"Drug or chemical induced diabetes m","E09.3549","Diabeties","CCW","ICD10_CM","TRUE"
+"275",37200100,"Drug or chemical induced diabetes m","E09.3411","Diabeties","CCW","ICD10_CM","TRUE"
+"276",37200131,"Drug or chemical induced diabetes m","E09.3559","Diabeties","CCW","ICD10_CM","TRUE"
+"277",37200104,"Drug or chemical induced diabetes m","E09.3491","Diabeties","CCW","ICD10_CM","TRUE"
+"278",45533013,"Drug or chemical induced diabetes m","E09.43","Diabeties","CCW","ICD10_CM","TRUE"
+"279",45566727,"Drug or chemical induced diabetes m","E09.620","Diabeties","CCW","ICD10_CM","TRUE"
+"280",45605396,"Drug or chemical induced diabetes m","E09.638","Diabeties","CCW","ICD10_CM","TRUE"
+"281",45542732,"Drug or chemical induced diabetes m","E09.36","Diabeties","CCW","ICD10_CM","TRUE"
+"282",45561944,"Drug or chemical induced diabetes m","E09.00","Diabeties","CCW","ICD10_CM","TRUE"
+"283",45561945,"Drug or chemical induced diabetes m","E09.22","Diabeties","CCW","ICD10_CM","TRUE"
+"284",45576432,"Drug or chemical induced diabetes m","E09.311","Diabeties","CCW","ICD10_CM","TRUE"
+"285",45537957,"Drug or chemical induced diabetes m","E09.69","Diabeties","CCW","ICD10_CM","TRUE"
+"286",45533015,"Drug or chemical induced diabetes m","E09.9","Diabeties","CCW","ICD10_CM","TRUE"
+"287",45552376,"Drug or chemical induced diabetes m","E09.21","Diabeties","CCW","ICD10_CM","TRUE"
+"288",45581345,"Drug or chemical induced diabetes m","E09.349","Diabeties","CCW","ICD10_CM","TRUE"
+"289",45576435,"Drug or chemical induced diabetes m","E09.621","Diabeties","CCW","ICD10_CM","TRUE"
+"290",45537956,"Drug or chemical induced diabetes m","E09.628","Diabeties","CCW","ICD10_CM","TRUE"
+"291",45581350,"Type 1 diabetes mellitus with other","E10.622","Diabeties","CCW","ICD10_CM","TRUE"
+"292",NA,NA,"250.2","Diabeties","CCW","ICD9_CM",NA
+"293",NA,NA,"250.21","Diabeties","CCW","ICD9_CM",NA
+"294",NA,NA,"250.22","Diabeties","CCW","ICD9_CM",NA
+"295",NA,NA,"250.3","Diabeties","CCW","ICD9_CM",NA
+"296",NA,NA,"250.32","Diabeties","CCW","ICD9_CM",NA
+"297",NA,NA,"250.33","Diabeties","CCW","ICD9_CM",NA
+"298",NA,NA,"250.4","Diabeties","CCW","ICD9_CM",NA
+"299",NA,NA,"250.41","Diabeties","CCW","ICD9_CM",NA
+"300",NA,NA,"250.42","Diabeties","CCW","ICD9_CM",NA
+"301",NA,NA,"250.43","Diabeties","CCW","ICD9_CM",NA
+"302",NA,NA,"250.5","Diabeties","CCW","ICD9_CM",NA
+"303",NA,NA,"250.51","Diabeties","CCW","ICD9_CM",NA
+"304",NA,NA,"250.52","Diabeties","CCW","ICD9_CM",NA
+"305",NA,NA,"250.53","Diabeties","CCW","ICD9_CM",NA
+"306",NA,NA,"250.6","Diabeties","CCW","ICD9_CM",NA
+"307",NA,NA,"250.61","Diabeties","CCW","ICD9_CM",NA
+"308",NA,NA,"250.62","Diabeties","CCW","ICD9_CM",NA
+"309",NA,NA,"250.63","Diabeties","CCW","ICD9_CM",NA
+"310",NA,NA,"250.7","Diabeties","CCW","ICD9_CM",NA
+"311",NA,NA,"250.71","Diabeties","CCW","ICD9_CM",NA
+"312",NA,NA,"250.72","Diabeties","CCW","ICD9_CM",NA
+"313",NA,NA,"250.73","Diabeties","CCW","ICD9_CM",NA
+"314",NA,NA,"357.2","Diabeties","CCW","ICD9_CM",NA
+"315",NA,NA,"362.01","Diabeties","CCW","ICD9_CM",NA
+"316",NA,NA,"362.02","Diabeties","CCW","ICD9_CM",NA
+"317",NA,NA,"362.03","Diabeties","CCW","ICD9_CM",NA
+"318",NA,NA,"362.04","Diabeties","CCW","ICD9_CM",NA
+"319",NA,NA,"362.05","Diabeties","CCW","ICD9_CM",NA
+"320",NA,NA,"362.06","Diabeties","CCW","ICD9_CM",NA
+"321",NA,NA,"366.41","Diabeties","CCW","ICD9_CM",NA
+"322",NA,NA,"E08.331","Diabeties","CCW","ICD10_CM",NA
+"323",NA,NA,"E08.3319","Diabeties","CCW","ICD10_CM",NA
+"324",NA,NA,"E08.339","Diabeties","CCW","ICD10_CM",NA
+"325",NA,NA,"E08.3399","Diabeties","CCW","ICD10_CM",NA
+"326",NA,NA,"E09.3291","Diabeties","CCW","ICD10_CM",NA
+"327",NA,NA,"E10.11","Diabeties","CCW","ICD10_CM",NA
+"328",NA,NA,"E10.21","Diabeties","CCW","ICD10_CM",NA
+"329",NA,NA,"E10.22","Diabeties","CCW","ICD10_CM",NA
+"330",NA,NA,"E10.29","Diabeties","CCW","ICD10_CM",NA
+"331",NA,NA,"E10.311","Diabeties","CCW","ICD10_CM",NA
+"332",NA,NA,"E10.319","Diabeties","CCW","ICD10_CM",NA
+"333",NA,NA,"E10.321","Diabeties","CCW","ICD10_CM",NA
+"334",NA,NA,"E10.3211","Diabeties","CCW","ICD10_CM",NA
+"335",NA,NA,"E10.3212","Diabeties","CCW","ICD10_CM",NA
+"336",NA,NA,"E10.3213","Diabeties","CCW","ICD10_CM",NA
+"337",NA,NA,"E10.3219","Diabeties","CCW","ICD10_CM",NA
+"338",NA,NA,"E10.329","Diabeties","CCW","ICD10_CM",NA
+"339",NA,NA,"E10.3291","Diabeties","CCW","ICD10_CM",NA
+"340",NA,NA,"E10.3292","Diabeties","CCW","ICD10_CM",NA
+"341",NA,NA,"E10.3293","Diabeties","CCW","ICD10_CM",NA
+"342",NA,NA,"E10.3299","Diabeties","CCW","ICD10_CM",NA
+"343",NA,NA,"E10.331","Diabeties","CCW","ICD10_CM",NA
+"344",NA,NA,"E10.3311","Diabeties","CCW","ICD10_CM",NA
+"345",NA,NA,"E10.3312","Diabeties","CCW","ICD10_CM",NA
+"346",NA,NA,"E10.3313","Diabeties","CCW","ICD10_CM",NA
+"347",NA,NA,"E10.3319","Diabeties","CCW","ICD10_CM",NA
+"348",NA,NA,"E10.339","Diabeties","CCW","ICD10_CM",NA
+"349",NA,NA,"E10.3391","Diabeties","CCW","ICD10_CM",NA
+"350",NA,NA,"E10.3392","Diabeties","CCW","ICD10_CM",NA
+"351",NA,NA,"E10.3393","Diabeties","CCW","ICD10_CM",NA
+"352",NA,NA,"E10.3399","Diabeties","CCW","ICD10_CM",NA
+"353",NA,NA,"E10.341","Diabeties","CCW","ICD10_CM",NA
+"354",NA,NA,"E10.3411","Diabeties","CCW","ICD10_CM",NA
+"355",NA,NA,"E10.3412","Diabeties","CCW","ICD10_CM",NA
+"356",NA,NA,"E10.3413","Diabeties","CCW","ICD10_CM",NA
+"357",NA,NA,"E10.3419","Diabeties","CCW","ICD10_CM",NA
+"358",NA,NA,"E10.349","Diabeties","CCW","ICD10_CM",NA
+"359",NA,NA,"E10.3491","Diabeties","CCW","ICD10_CM",NA
+"360",NA,NA,"E10.3492","Diabeties","CCW","ICD10_CM",NA
+"361",NA,NA,"E10.3493","Diabeties","CCW","ICD10_CM",NA
+"362",NA,NA,"E10.3499","Diabeties","CCW","ICD10_CM",NA
+"363",NA,NA,"E10.351","Diabeties","CCW","ICD10_CM",NA
+"364",NA,NA,"E10.3511","Diabeties","CCW","ICD10_CM",NA
+"365",NA,NA,"E10.3512","Diabeties","CCW","ICD10_CM",NA
+"366",NA,NA,"E10.3513","Diabeties","CCW","ICD10_CM",NA
+"367",NA,NA,"E10.3519","Diabeties","CCW","ICD10_CM",NA
+"368",NA,NA,"E10.359","Diabeties","CCW","ICD10_CM",NA
+"369",NA,NA,"E10.36","Diabeties","CCW","ICD10_CM",NA
+"370",NA,NA,"E10.37X1","Diabeties","CCW","ICD10_CM",NA
+"371",NA,NA,"E10.37X2","Diabeties","CCW","ICD10_CM",NA
+"372",NA,NA,"E10.37X3","Diabeties","CCW","ICD10_CM",NA
+"373",NA,NA,"E10.37X9","Diabeties","CCW","ICD10_CM",NA
+"374",NA,NA,"E10.39","Diabeties","CCW","ICD10_CM",NA
+"375",NA,NA,"E10.40","Diabeties","CCW","ICD10_CM",NA
+"376",NA,NA,"E10.41","Diabeties","CCW","ICD10_CM",NA
+"377",NA,NA,"E10.42","Diabeties","CCW","ICD10_CM",NA
+"378",NA,NA,"E10.43","Diabeties","CCW","ICD10_CM",NA
+"379",NA,NA,"E10.44","Diabeties","CCW","ICD10_CM",NA
+"380",NA,NA,"E10.49","Diabeties","CCW","ICD10_CM",NA
+"381",NA,NA,"E10.51","Diabeties","CCW","ICD10_CM",NA
+"382",NA,NA,"E10.59","Diabeties","CCW","ICD10_CM",NA
+"383",NA,NA,"E10.618","Diabeties","CCW","ICD10_CM",NA
+"384",NA,NA,"E10.620","Diabeties","CCW","ICD10_CM",NA
+"385",NA,NA,"E10.628","Diabeties","CCW","ICD10_CM",NA
+"386",NA,NA,"E10.641","Diabeties","CCW","ICD10_CM",NA
+"387",NA,NA,"E11.01","Diabeties","CCW","ICD10_CM",NA
+"388",NA,NA,"E11.11","Diabeties","CCW","ICD10_CM",NA
+"389",NA,NA,"E11.21","Diabeties","CCW","ICD10_CM",NA
+"390",NA,NA,"E11.29","Diabeties","CCW","ICD10_CM",NA
+"391",NA,NA,"E11.311","Diabeties","CCW","ICD10_CM",NA
+"392",NA,NA,"E11.319","Diabeties","CCW","ICD10_CM",NA
+"393",NA,NA,"E11.321","Diabeties","CCW","ICD10_CM",NA
+"394",NA,NA,"E11.3211","Diabeties","CCW","ICD10_CM",NA
+"395",NA,NA,"E11.3212","Diabeties","CCW","ICD10_CM",NA
+"396",NA,NA,"E11.3213","Diabeties","CCW","ICD10_CM",NA
+"397",NA,NA,"E11.3219","Diabeties","CCW","ICD10_CM",NA
+"398",NA,NA,"E11.329","Diabeties","CCW","ICD10_CM",NA
+"399",NA,NA,"E11.3291","Diabeties","CCW","ICD10_CM",NA
+"400",NA,NA,"E11.3292","Diabeties","CCW","ICD10_CM",NA
+"401",NA,NA,"E11.3293","Diabeties","CCW","ICD10_CM",NA
+"402",NA,NA,"E11.3299","Diabeties","CCW","ICD10_CM",NA
+"403",NA,NA,"E11.331","Diabeties","CCW","ICD10_CM",NA
+"404",NA,NA,"E11.3311","Diabeties","CCW","ICD10_CM",NA
+"405",NA,NA,"E11.3312","Diabeties","CCW","ICD10_CM",NA
+"406",NA,NA,"E11.3313","Diabeties","CCW","ICD10_CM",NA
+"407",NA,NA,"E11.3319","Diabeties","CCW","ICD10_CM",NA
+"408",NA,NA,"E11.339","Diabeties","CCW","ICD10_CM",NA
+"409",NA,NA,"E11.3391","Diabeties","CCW","ICD10_CM",NA
+"410",NA,NA,"E11.3392","Diabeties","CCW","ICD10_CM",NA
+"411",NA,NA,"E11.3393","Diabeties","CCW","ICD10_CM",NA
+"412",NA,NA,"E11.3399","Diabeties","CCW","ICD10_CM",NA
+"413",NA,NA,"E11.341","Diabeties","CCW","ICD10_CM",NA
+"414",NA,NA,"E11.3411","Diabeties","CCW","ICD10_CM",NA
+"415",NA,NA,"E11.3412","Diabeties","CCW","ICD10_CM",NA
+"416",NA,NA,"E11.3413","Diabeties","CCW","ICD10_CM",NA
+"417",NA,NA,"E11.3419","Diabeties","CCW","ICD10_CM",NA
+"418",NA,NA,"E11.349","Diabeties","CCW","ICD10_CM",NA
+"419",NA,NA,"E11.3491","Diabeties","CCW","ICD10_CM",NA
+"420",NA,NA,"E11.3492","Diabeties","CCW","ICD10_CM",NA
+"421",NA,NA,"E11.3493","Diabeties","CCW","ICD10_CM",NA
+"422",NA,NA,"E11.3499","Diabeties","CCW","ICD10_CM",NA
+"423",NA,NA,"E11.351","Diabeties","CCW","ICD10_CM",NA
+"424",NA,NA,"E11.3511","Diabeties","CCW","ICD10_CM",NA
+"425",NA,NA,"E11.3512","Diabeties","CCW","ICD10_CM",NA
+"426",NA,NA,"E11.3513","Diabeties","CCW","ICD10_CM",NA
+"427",NA,NA,"E11.3519","Diabeties","CCW","ICD10_CM",NA
+"428",NA,NA,"E11.3521","Diabeties","CCW","ICD10_CM",NA
+"429",NA,NA,"E11.3522","Diabeties","CCW","ICD10_CM",NA
+"430",NA,NA,"E11.3523","Diabeties","CCW","ICD10_CM",NA
+"431",NA,NA,"E11.3529","Diabeties","CCW","ICD10_CM",NA
+"432",NA,NA,"E11.3531","Diabeties","CCW","ICD10_CM",NA
+"433",NA,NA,"E11.3532","Diabeties","CCW","ICD10_CM",NA
+"434",NA,NA,"E11.3533","Diabeties","CCW","ICD10_CM",NA
+"435",NA,NA,"E11.3539","Diabeties","CCW","ICD10_CM",NA
+"436",NA,NA,"E11.3541","Diabeties","CCW","ICD10_CM",NA
+"437",NA,NA,"E11.3542","Diabeties","CCW","ICD10_CM",NA
+"438",NA,NA,"E11.3543","Diabeties","CCW","ICD10_CM",NA
+"439",NA,NA,"E11.3549","Diabeties","CCW","ICD10_CM",NA
+"440",NA,NA,"E11.3551","Diabeties","CCW","ICD10_CM",NA
+"441",NA,NA,"E11.3552","Diabeties","CCW","ICD10_CM",NA
+"442",NA,NA,"E11.3553","Diabeties","CCW","ICD10_CM",NA
+"443",NA,NA,"E11.3559","Diabeties","CCW","ICD10_CM",NA
+"444",NA,NA,"E11.359","Diabeties","CCW","ICD10_CM",NA
+"445",NA,NA,"E11.3591","Diabeties","CCW","ICD10_CM",NA
+"446",NA,NA,"E11.3592","Diabeties","CCW","ICD10_CM",NA
+"447",NA,NA,"E11.3593","Diabeties","CCW","ICD10_CM",NA
+"448",NA,NA,"E11.3599","Diabeties","CCW","ICD10_CM",NA
+"449",NA,NA,"E11.36","Diabeties","CCW","ICD10_CM",NA
+"450",NA,NA,"E11.39","Diabeties","CCW","ICD10_CM",NA
+"451",NA,NA,"E11.40","Diabeties","CCW","ICD10_CM",NA
+"452",NA,NA,"E11.41","Diabeties","CCW","ICD10_CM",NA
+"453",NA,NA,"E11.42","Diabeties","CCW","ICD10_CM",NA
+"454",NA,NA,"E11.43","Diabeties","CCW","ICD10_CM",NA
+"455",NA,NA,"E11.44","Diabeties","CCW","ICD10_CM",NA
+"456",NA,NA,"E11.49","Diabeties","CCW","ICD10_CM",NA
+"457",NA,NA,"E11.51","Diabeties","CCW","ICD10_CM",NA
+"458",NA,NA,"E11.59","Diabeties","CCW","ICD10_CM",NA
+"459",NA,NA,"E11.610","Diabeties","CCW","ICD10_CM",NA
+"460",NA,NA,"E11.618","Diabeties","CCW","ICD10_CM",NA
+"461",NA,NA,"E11.620","Diabeties","CCW","ICD10_CM",NA
+"462",NA,NA,"E11.628","Diabeties","CCW","ICD10_CM",NA
+"463",NA,NA,"E11.641","Diabeties","CCW","ICD10_CM",NA
+"464",NA,NA,"E13.01","Diabeties","CCW","ICD10_CM",NA
+"465",NA,NA,"E13.11","Diabeties","CCW","ICD10_CM",NA
+"466",NA,NA,"E13.21","Diabeties","CCW","ICD10_CM",NA
+"467",NA,NA,"E13.22","Diabeties","CCW","ICD10_CM",NA
+"468",NA,NA,"E13.29","Diabeties","CCW","ICD10_CM",NA
+"469",NA,NA,"E13.311","Diabeties","CCW","ICD10_CM",NA
+"470",NA,NA,"E13.319","Diabeties","CCW","ICD10_CM",NA
+"471",NA,NA,"E13.321","Diabeties","CCW","ICD10_CM",NA
+"472",NA,NA,"E13.3211","Diabeties","CCW","ICD10_CM",NA
+"473",NA,NA,"E13.3212","Diabeties","CCW","ICD10_CM",NA
+"474",NA,NA,"E13.3213","Diabeties","CCW","ICD10_CM",NA
+"475",NA,NA,"E13.3219","Diabeties","CCW","ICD10_CM",NA
+"476",NA,NA,"E13.329","Diabeties","CCW","ICD10_CM",NA
+"477",NA,NA,"E13.3291","Diabeties","CCW","ICD10_CM",NA
+"478",NA,NA,"E13.3292","Diabeties","CCW","ICD10_CM",NA
+"479",NA,NA,"E13.3293","Diabeties","CCW","ICD10_CM",NA
+"480",NA,NA,"E13.3299","Diabeties","CCW","ICD10_CM",NA
+"481",NA,NA,"E13.331","Diabeties","CCW","ICD10_CM",NA
+"482",NA,NA,"E13.3311","Diabeties","CCW","ICD10_CM",NA
+"483",NA,NA,"E13.3312","Diabeties","CCW","ICD10_CM",NA
+"484",NA,NA,"E13.3313","Diabeties","CCW","ICD10_CM",NA
+"485",NA,NA,"E13.3319","Diabeties","CCW","ICD10_CM",NA
+"486",NA,NA,"E13.339","Diabeties","CCW","ICD10_CM",NA
+"487",NA,NA,"E13.3391","Diabeties","CCW","ICD10_CM",NA
+"488",NA,NA,"E13.3392","Diabeties","CCW","ICD10_CM",NA
+"489",NA,NA,"E13.3393","Diabeties","CCW","ICD10_CM",NA
+"490",NA,NA,"E13.3399","Diabeties","CCW","ICD10_CM",NA
+"491",NA,NA,"E13.341","Diabeties","CCW","ICD10_CM",NA
+"492",NA,NA,"E13.3411","Diabeties","CCW","ICD10_CM",NA
+"493",NA,NA,"E13.3412","Diabeties","CCW","ICD10_CM",NA
+"494",NA,NA,"E13.3413","Diabeties","CCW","ICD10_CM",NA
+"495",NA,NA,"E13.3419","Diabeties","CCW","ICD10_CM",NA
+"496",NA,NA,"E13.349","Diabeties","CCW","ICD10_CM",NA
+"497",NA,NA,"E13.3491","Diabeties","CCW","ICD10_CM",NA
+"498",NA,NA,"E13.3492","Diabeties","CCW","ICD10_CM",NA
+"499",NA,NA,"E13.3493","Diabeties","CCW","ICD10_CM",NA
+"500",NA,NA,"E13.3499","Diabeties","CCW","ICD10_CM",NA
+"501",NA,NA,"E13.351","Diabeties","CCW","ICD10_CM",NA
+"502",NA,NA,"E13.3511","Diabeties","CCW","ICD10_CM",NA
+"503",NA,NA,"E13.3512","Diabeties","CCW","ICD10_CM",NA
+"504",NA,NA,"E13.3513","Diabeties","CCW","ICD10_CM",NA
+"505",NA,NA,"E13.3519","Diabeties","CCW","ICD10_CM",NA
+"506",NA,NA,"E13.3521","Diabeties","CCW","ICD10_CM",NA
+"507",NA,NA,"E13.3522","Diabeties","CCW","ICD10_CM",NA
+"508",NA,NA,"E13.3523","Diabeties","CCW","ICD10_CM",NA
+"509",NA,NA,"E13.3529","Diabeties","CCW","ICD10_CM",NA
+"510",NA,NA,"E13.3531","Diabeties","CCW","ICD10_CM",NA
+"511",NA,NA,"E13.3532","Diabeties","CCW","ICD10_CM",NA
+"512",NA,NA,"E13.3533","Diabeties","CCW","ICD10_CM",NA
+"513",NA,NA,"E13.3539","Diabeties","CCW","ICD10_CM",NA
+"514",NA,NA,"E13.3541","Diabeties","CCW","ICD10_CM",NA
+"515",NA,NA,"E13.3542","Diabeties","CCW","ICD10_CM",NA
+"516",NA,NA,"E13.3543","Diabeties","CCW","ICD10_CM",NA
+"517",NA,NA,"E13.3549","Diabeties","CCW","ICD10_CM",NA
+"518",NA,NA,"E13.3551","Diabeties","CCW","ICD10_CM",NA
+"519",NA,NA,"E13.3552","Diabeties","CCW","ICD10_CM",NA
+"520",NA,NA,"E13.3553","Diabeties","CCW","ICD10_CM",NA
+"521",NA,NA,"E13.3559","Diabeties","CCW","ICD10_CM",NA
+"522",NA,NA,"E13.359","Diabeties","CCW","ICD10_CM",NA
+"523",NA,NA,"E13.36","Diabeties","CCW","ICD10_CM",NA
+"524",NA,NA,"E13.39","Diabeties","CCW","ICD10_CM",NA
+"525",NA,NA,"E13.40","Diabeties","CCW","ICD10_CM",NA
+"526",NA,NA,"E13.41","Diabeties","CCW","ICD10_CM",NA
+"527",NA,NA,"E13.42","Diabeties","CCW","ICD10_CM",NA
+"528",NA,NA,"E13.43","Diabeties","CCW","ICD10_CM",NA
+"529",NA,NA,"E13.44","Diabeties","CCW","ICD10_CM",NA
+"530",NA,NA,"E13.49","Diabeties","CCW","ICD10_CM",NA
+"531",NA,NA,"E13.51","Diabeties","CCW","ICD10_CM",NA
+"532",NA,NA,"E13.52","Diabeties","CCW","ICD10_CM",NA
+"533",NA,NA,"E13.59","Diabeties","CCW","ICD10_CM",NA
+"534",NA,NA,"E13.620","Diabeties","CCW","ICD10_CM",NA
+"535",NA,NA,"E13.628","Diabeties","CCW","ICD10_CM",NA
+"536",NA,NA,"E13.641","Diabeties","CCW","ICD10_CM",NA
+"537",45576259,"Acute hepatitis C without hepatic c","B17.10","Hepatitis C","CCW","ICD10_CM","TRUE"
+"538",44832084,"Acute hepatitis C without mention o","070.51","Hepatitis C","CCW","ICD9_CM","TRUE"
+"539",44828695,"Unspecified viral hepatitis C witho","070.70","Hepatitis C","CCW","ICD9_CM","TRUE"
+"540",44828694,"Unspecified viral hepatitis C","070.7","Hepatitis C","CCW","ICD9_CM","TRUE"
+"541",45581151,"Unspecified viral hepatitis C witho","B19.20","Hepatitis C","CCW","ICD10_CM","TRUE"
+"542",44835626,"Chronic hepatitis C with hepatic co","070.44","Hepatitis C","CCW","ICD9_CM","TRUE"
+"543",44819379,"Chronic hepatitis C without mention","070.54","Hepatitis C","CCW","ICD9_CM","TRUE"
+"544",35205771,"Chronic viral hepatitis C","B18.2","Hepatitis C","CCW","ICD10_CM","TRUE"
+"545",NA,NA,"070.41","Hepatitis C","CCW","ICD9_CM",NA
+"546",NA,NA,"070.71","Hepatitis C","CCW","ICD9_CM",NA
+"547",NA,NA,"B17.11","Hepatitis C","CCW","ICD10_CM",NA
+"548",NA,NA,"B19.21","Hepatitis C","CCW","ICD10_CM",NA
+"549",NA,NA,"V02.62","Hepatitis C","CCW","ICD10_CM",NA
+"550",NA,NA,"Z22.52","Hepatitis C","CCW","ICD10_CM",NA
+"551",44828699,"Human immunodeficiency virus, type ","079.53","HIV_AIDS","CCW","ICD9_CM","TRUE"
+"552",45561777,"Human immunodeficiency virus, type ","B97.35","HIV_AIDS","CCW","ICD10_CM","TRUE"
+"553",44829737,"Human immunodeficiency virus [HIV] ","042","HIV_AIDS","CCW","ICD9_CM","TRUE"
+"554",35205776,"Human immunodeficiency virus [HIV] ","B20","HIV_AIDS","CCW","ICD10_CM","TRUE"
+"555",44824945,"Asymptomatic human immunodeficiency","V08","HIV_AIDS","CCW","ICD9_CM","TRUE"
+"556",35225089,"Asymptomatic human immunodeficiency","Z21","HIV_AIDS","CCW","ICD10_CM","TRUE"
+"557",NA,NA,"042.1","HIV_AIDS","CCW","ICD9_CM",NA
+"558",NA,NA,"042.2","HIV_AIDS","CCW","ICD9_CM",NA
+"559",NA,NA,"042.9","HIV_AIDS","CCW","ICD9_CM",NA
+"560",NA,NA,"043","HIV_AIDS","CCW","ICD9_CM",NA
+"561",NA,NA,"043.1","HIV_AIDS","CCW","ICD9_CM",NA
+"562",NA,NA,"043.2","HIV_AIDS","CCW","ICD9_CM",NA
+"563",NA,NA,"043.3","HIV_AIDS","CCW","ICD9_CM",NA
+"564",NA,NA,"043.9","HIV_AIDS","CCW","ICD9_CM",NA
+"565",NA,NA,"044","HIV_AIDS","CCW","ICD9_CM",NA
+"566",NA,NA,"044.9","HIV_AIDS","CCW","ICD9_CM",NA
+"567",NA,NA,"488","HIV_AIDS","CCW","DRG",NA
+"568",NA,NA,"489","HIV_AIDS","CCW","DRG",NA
+"569",NA,NA,"490","HIV_AIDS","CCW","DRG",NA
+"570",NA,NA,"795.71","HIV_AIDS","CCW","ICD9_CM",NA
+"571",NA,NA,"969","HIV_AIDS","CCW","DRG",NA
+"572",NA,NA,"969","HIV_AIDS","CCW","DRG",NA
+"573",NA,NA,"970","HIV_AIDS","CCW","DRG",NA
+"574",NA,NA,"970","HIV_AIDS","CCW","DRG",NA
+"575",NA,NA,"974","HIV_AIDS","CCW","DRG",NA
+"576",NA,NA,"974","HIV_AIDS","CCW","DRG",NA
+"577",NA,NA,"975","HIV_AIDS","CCW","DRG",NA
+"578",NA,NA,"975","HIV_AIDS","CCW","DRG",NA
+"579",NA,NA,"976","HIV_AIDS","CCW","DRG",NA
+"580",NA,NA,"976","HIV_AIDS","CCW","DRG",NA
+"581",NA,NA,"977","HIV_AIDS","CCW","DRG",NA
+"582",NA,NA,"R75","HIV_AIDS","CCW","ICD10_CM",NA
+"583",44821949,"Unspecified essential hypertension","401.9","Hypertension","CCW","ICD9_CM","TRUE"
+"584",44833556,"Essential hypertension","401","Hypertension","CCW","ICD9_CM","TRUE"
+"585",35207668,"Essential (primary) hypertension","I10","Hypertension","CCW","ICD10_CM","TRUE"
+"586",44834715,"Benign essential hypertension","401.1","Hypertension","CCW","ICD9_CM","TRUE"
+"587",NA,NA,"362.11","Hypertension","CCW","ICD9_CM",NA
+"588",NA,NA,"402","Hypertension","CCW","ICD9_CM",NA
+"589",NA,NA,"402.01","Hypertension","CCW","ICD9_CM",NA
+"590",NA,NA,"402.1","Hypertension","CCW","ICD9_CM",NA
+"591",NA,NA,"402.11","Hypertension","CCW","ICD9_CM",NA
+"592",NA,NA,"402.9","Hypertension","CCW","ICD9_CM",NA
+"593",NA,NA,"402.91","Hypertension","CCW","ICD9_CM",NA
+"594",NA,NA,"403","Hypertension","CCW","ICD9_CM",NA
+"595",NA,NA,"403.01","Hypertension","CCW","ICD9_CM",NA
+"596",NA,NA,"403.1","Hypertension","CCW","ICD9_CM",NA
+"597",NA,NA,"403.11","Hypertension","CCW","ICD9_CM",NA
+"598",NA,NA,"403.9","Hypertension","CCW","ICD9_CM",NA
+"599",NA,NA,"403.91","Hypertension","CCW","ICD9_CM",NA
+"600",NA,NA,"404","Hypertension","CCW","ICD9_CM",NA
+"601",NA,NA,"404.01","Hypertension","CCW","ICD9_CM",NA
+"602",NA,NA,"404.02","Hypertension","CCW","ICD9_CM",NA
+"603",NA,NA,"404.03","Hypertension","CCW","ICD9_CM",NA
+"604",NA,NA,"404.1","Hypertension","CCW","ICD9_CM",NA
+"605",NA,NA,"404.11","Hypertension","CCW","ICD9_CM",NA
+"606",NA,NA,"404.12","Hypertension","CCW","ICD9_CM",NA
+"607",NA,NA,"404.13","Hypertension","CCW","ICD9_CM",NA
+"608",NA,NA,"404.9","Hypertension","CCW","ICD9_CM",NA
+"609",NA,NA,"404.91","Hypertension","CCW","ICD9_CM",NA
+"610",NA,NA,"404.92","Hypertension","CCW","ICD9_CM",NA
+"611",NA,NA,"404.93","Hypertension","CCW","ICD9_CM",NA
+"612",NA,NA,"405.01","Hypertension","CCW","ICD9_CM",NA
+"613",NA,NA,"405.09","Hypertension","CCW","ICD9_CM",NA
+"614",NA,NA,"405.11","Hypertension","CCW","ICD9_CM",NA
+"615",NA,NA,"405.19","Hypertension","CCW","ICD9_CM",NA
+"616",NA,NA,"405.91","Hypertension","CCW","ICD9_CM",NA
+"617",NA,NA,"405.99","Hypertension","CCW","ICD9_CM",NA
+"618",NA,NA,"437.2","Hypertension","CCW","ICD9_CM",NA
+"619",NA,NA,"H35.032","Hypertension","CCW","ICD10_CM",NA
+"620",NA,NA,"H35.033","Hypertension","CCW","ICD10_CM",NA
+"621",NA,NA,"H35.039","Hypertension","CCW","ICD10_CM",NA
+"622",NA,NA,"I11.0","Hypertension","CCW","ICD10_CM",NA
+"623",NA,NA,"I11.9","Hypertension","CCW","ICD10_CM",NA
+"624",NA,NA,"I12.0","Hypertension","CCW","ICD10_CM",NA
+"625",NA,NA,"I12.9","Hypertension","CCW","ICD10_CM",NA
+"626",NA,NA,"I13.0","Hypertension","CCW","ICD10_CM",NA
+"627",NA,NA,"I13.10","Hypertension","CCW","ICD10_CM",NA
+"628",NA,NA,"I13.11","Hypertension","CCW","ICD10_CM",NA
+"629",NA,NA,"I13.2","Hypertension","CCW","ICD10_CM",NA
+"630",NA,NA,"I15.0","Hypertension","CCW","ICD10_CM",NA
+"631",NA,NA,"I15.1","Hypertension","CCW","ICD10_CM",NA
+"632",NA,NA,"I15.2","Hypertension","CCW","ICD10_CM",NA
+"633",NA,NA,"I15.8","Hypertension","CCW","ICD10_CM",NA
+"634",NA,NA,"I15.9","Hypertension","CCW","ICD10_CM",NA
+"635",NA,NA,"I67.4","Hypertension","CCW","ICD10_CM",NA
+"636",NA,NA,"N26.2","Hypertension","CCW","ICD10_CM",NA
+"637",NA,NA,"H35.031","Hypertension","CCW","ICD10_CM",NA
