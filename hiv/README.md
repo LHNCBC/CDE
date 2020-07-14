@@ -49,7 +49,7 @@ also see files for some of them in https://github.com/lhncbc/CDE/tree/master/hiv
 
 - Williams N, Mayer C, Huser V. Automated Discovery of Common Data Elements in HIV Clinical Trials Using an Interaction Network. AMIA Annual Symposium, 2019
 
-- Williams N, Mayer C, Huser V. Medicare population analysis for cancer mortality in HIV patients, NIH Think Tank meeting on HIV (Dec 2019), Bethesda, MD 
+- Williams N, Mayer C, Huser V. Medicare population analysis for cancer mortality in HIV patients, NIH Think Tank meeting on HIV, Bethesda, MD 
 
 - Nick Williams,  Craig Mayer, Vojtech Huser Generation of Cohort Models and Reproducibility of Inclusion Criteria from Semantic Terms, Mobilizing Computable Biomedical Knowledge, 2020
 
@@ -59,11 +59,11 @@ also see files for some of them in https://github.com/lhncbc/CDE/tree/master/hiv
 
 - Jaime M. Guidry Auvil, Nick Williams, Michael LeBlanc, Garnet Anderson, Yunda Huang Looking for a nail to hammer? Come find datasets from the largest clinical trials groups, American Statistical Association’s Joint Statistical Meeting, 2020
 
-- Nick Williams, Craig Mayer, Vojtech Huser A Descriptive Study of HIV Patients Highly Adherent to Antiretroviral Therapy, AIMA Annual Symposium, 2020
+- Nick Williams, Craig Mayer, Vojtech Huser A Descriptive Study of HIV Patients Highly Adherent to Antiretroviral Therapy, AMIA Annual Symposium, 2020
 
-- Nick Williams, Craig Mayer, Vojtech Huser Rule-based Data Quality Assurance of Medication History Data, AIMA Annual Symposium, 2020
+- Nick Williams, Craig Mayer, Vojtech Huser Rule-based Data Quality Assurance of Medication History Data, AMIA Annual Symposium, 2020
 
-- Craig Mayer, Nick Williams, Vojtech Huser Identification of Common Data Elements from Pivotal FDA Trials, AIMA annual Symposium, 2020
+- Craig Mayer, Nick Williams, Vojtech Huser Identification of Common Data Elements from Pivotal FDA Trials, AMIA annual Symposium, 2020
 
 
 ## Training materials
