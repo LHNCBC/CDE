@@ -51,6 +51,21 @@ also see files for some of them in https://github.com/lhncbc/CDE/tree/master/hiv
 
 - Williams N, Mayer C, Huser V. Medicare population analysis for cancer mortality in HIV patients, NIH Think Tank meeting on HIV (Dec 2019), Bethesda, MD 
 
+- Nick Williams,  Craig Mayer, Vojtech Huser Generation of Cohort Models and Reproducibility of Inclusion Criteria from Semantic Terms, Mobilizing Computable Biomedical Knowledge, 2020
+
+- Vojtech Huser, Craig Mayer, Nick Williams Use of OHDSI Cohort Definition Tool to Pilot Clinical Decision Support Logic, Mobilizing Computable Biomedical Knowledge, 2020
+
+- Craig Mayer, Nick Williams, Vojtech Huser Computable knowledge base of experimental treatment intervention by disease over time inferred from Clinicaltrials.gov, Mobilizing Computable Biomedical Knowledge, 2020
+
+- Jaime M. Guidry Auvil, Nick Williams, Michael LeBlanc, Garnet Anderson, Yunda Huang Looking for a nail to hammer? Come find datasets from the largest clinical trials groups, American Statistical Association’s Joint Statistical Meeting, 2020
+
+- Nick Williams, Craig Mayer, Vojtech Huser A Descriptive Study of HIV Patients Highly Adherent to Antiretroviral Therapy, AIMA Annual Symposium, 2020
+
+- Nick Williams, Craig Mayer, Vojtech Huser Rule-based Data Quality Assurance of Medication History Data, AIMA Annual Symposium, 2020
+
+- Craig Mayer, Nick Williams, Vojtech Huser Identification of Common Data Elements from Pivotal FDA Trials, AIMA annual Symposium, 2020
+
+
 ## Training materials
 
 - (draft status) training materials https://github.com/lhncbc/CDE/tree/master/hiv/training 
