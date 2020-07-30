@@ -26,8 +26,8 @@ The document aims to provide examples (with URL links) to studies that demostrat
 
 # Views
 
-Full: the full checklist with detailed descirptions, and positive and challenging examples when available
-Brief: List of checklist items
+- Full: the full checklist with detailed descirptions, and positive and challenging examples when available
+- Brief: List of checklist items
 
 # Feedback 
 We welcome feedback to any checklist item at craig.mayer2 ‘at’ nih.gov
