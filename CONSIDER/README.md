@@ -10,7 +10,7 @@ This has documents that provides a checklist and a set of recommendations to gui
 
 # Views
 
-- [Full](https://lhncbc.github.io/CRI/CONSIDER/CONSIDER-full.html): the full checklist with detailed descirptions, and positive and challenging examples when available
+- [Full](https://lhncbc.github.io/CRI/CONSIDER/CONSIDER-full.html): The full checklist with detailed descirptions, and positive and challenging examples when available
 - [Brief](https://lhncbc.github.io/CRI/CONSIDER/CONSIDER-brief.html): List of checklist items
 
 # Categories of recommendations
