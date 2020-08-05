@@ -1,5 +1,7 @@
 # CONSIDER statement 
 
+[CLICK HERE TO SEE THE CONSIDER STATEMENT](https://lhncbc.github.io/CRI/CONSIDER/CONSIDER-full.html)
+
 CONSolidated REcommendations for sharing Individual participant Data
 
 The acronym is loosely derived from letters contained in the title: CONSolidated REcommendations for sharing Individual participant Data). Letters E and R are re-ordered to create a more memorable acronym.
