@@ -17,8 +17,8 @@ tbls<-RPostgreSQL::dbListTables(con)
 tbls
 
 
-# Set study to score with ClinicalTrials.gov (NCT) ID
-nct =covid9_vacc[,1]
+# Set study or group of studies to score with ClinicalTrials.gov (NCT) ID
+nct = nct
 
 CONSIDER<-function(nct){
   
