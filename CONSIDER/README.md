@@ -6,6 +6,7 @@ CONSolidated REcommendations for sharing Individual participant Data
 
 The acronym is loosely derived from letters contained in the title: CONSolidated REcommendations for sharing Individual participant Data). Letters E and R are re-ordered to create a more memorable acronym.
 
+Full Conference paper describing the CONSIDER statement: [paper](https://www.researchgate.net/publication/346630968_CONSIDER_Statement_Consolidated_Recommendations_for_Sharing_Individual_Participant_Data_from_Human_Clinical_Studies)
 
 # Content
 This has documents that provides a checklist and a set of recommendations to guide principal investigators (PIs), study team members and data sharing platform representatives in optimal sharing of individual participant data (IPD) from human clinical studies. We use the term study to include interventional trials and observational studies.
